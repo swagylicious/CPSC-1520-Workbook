@@ -4,6 +4,10 @@
 
 > Your first learning adventure should begin with [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/). Learning how to use Markdown now will really help you focus on capturing **content** in this journal. :sunglasses:
 
+## Table of Contents
+
+> *Create an un-ordered list here for your own table of contents, and add links to additional Markdown pages in this folder.*
+
 ----
 
 <!-- Custom Styling - Modify for Fun and Learning - No Warranties Implied -->
