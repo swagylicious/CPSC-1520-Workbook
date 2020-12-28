@@ -6,7 +6,7 @@ This repository is a **Student Workbook** "template repository" containing [**de
 
 > :warning: **Do *NOT*** use this repository for any assignments that are worth marks. :warning:
 
-Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://cpsc-1520.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://.github.io/about/LOGs.html) used in class.
+Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://cpsc-1520.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://cpsc-1520.github.io/LOGs.html) used in class.
 
 ----
 
