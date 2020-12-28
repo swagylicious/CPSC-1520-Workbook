@@ -29,10 +29,6 @@ Other recommended resources include:
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [JavaScript - Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-Advanced resources outside the scope of this course include:
-
-- [Azure Developer Tools](https://azureforeducation.microsoft.com/devtools) - Sign in with your school-issued email address to get access to the free resources offered by Microsoft.
-
 ----
 
 ### VS Code Extensions
