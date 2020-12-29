@@ -23,6 +23,7 @@ Additionally, you can find online notes at the course's [Moodle site](https://mo
 
 Other recommended resources include:
 
+- ["Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming"](https://eloquentjavascript.net/) (ISBN-13: 978-1593279509) - As identified in the course outline
 - [Learn Markdown](https://commonmark.org/help/)
 - **Mozilla Developer Network** (*MDN*)
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
