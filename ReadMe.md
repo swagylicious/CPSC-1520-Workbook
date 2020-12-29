@@ -12,11 +12,11 @@ Additionally, you can find online notes at the course's [Moodle site](https://mo
 
 ## ![Software et.al.](./docs/images/code.png) Software & Resources
 
-Required tools for this course include:
+**Required** tools for this course include:
 
 - [Visual Studio Code](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions)
 
-Recommended tools for this course include:
+*Recommended* tools for this course include:
 
 - **Version Control**
   - [GitHub CLI](https://cli.github.com/) (*Command-Line Interface*)
@@ -34,9 +34,17 @@ Other recommended resources include:
 
 Here are some helpful VS Code Extensions for JavaScript, HTML, and CSS Development.
 
+#### Required
+
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
   - [Debugging JavaScript Projects with VS Code & chrome Debugger](https://www.sitepoint.com/debugging-javascript-projects-vs-code-chrome-debugger/)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Markdown All-In-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+#### Recommended
+
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) 
 
 ----
