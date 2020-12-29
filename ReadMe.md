@@ -15,7 +15,6 @@ Additionally, you can find online notes at the course's [Moodle site](https://mo
 Required tools for this course include:
 
 - [Visual Studio Code](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions)
-- [GitHub Desktop](https://desktop.github.com) - Great for getting started, but you should plan on learning **git** on the command line.
 
 Recommended tools for this course include:
 
