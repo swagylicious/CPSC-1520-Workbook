@@ -2,7 +2,7 @@
 
 ## Working with Multiple Elements
 
-> To follow along with this exercise, you will need to download and un-zip this [starter kit](.zip).
+> To follow along with this exercise, you will need to open the [practice/index.html](./practice/index.html) in your browser with Live-Server.
 
 So far, we have only been focused on accessing a single element at a time, but there are times when access to multiple elements (perhaps even an unknown number) is required. For these cases, we can use loops to iterate over the collection of elements in question.
 
