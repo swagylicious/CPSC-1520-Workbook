@@ -1,5 +1,5 @@
 # `src` Folder
 
-This **`src`** folder contains [**demos**](./src/demos/ReadMe.md) as well as a place for you to try out [**tutorials** and **practice materials**](./src/practice/ReadMe.md).
+This **`src`** folder contains practice and demo material for each week of this course.
 
 > :warning: **Do *NOT*** use this repository for any assignments that are worth marks. :warning:
