@@ -1,4 +1,4 @@
-# Developer Tools Console
+# Developer Tools Console ![Docs](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-brightgreen?logo=Read%20the%20Docs)
 
 ## Intro
 
