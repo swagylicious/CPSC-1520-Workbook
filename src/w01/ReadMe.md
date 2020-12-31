@@ -45,4 +45,4 @@
   - [ ] Simple variable declarations
   - [ ] Simple types (strings and numbers)
 - **In-Class Assessment**
-  - [ ] Have students work through the console exercise and in-class assessment, which **must be completed by the end of class** <!--(only release the in-class assessment in class on this day on the projector; DO NOT release through Moodle).-->
+  - [ ] Have students work through the console exercise (not for marks) and in-class assessment (for marks), which **must be completed by the end of class** <!--(only release the in-class assessment in class on this day on the projector; DO NOT release through Moodle).-->
