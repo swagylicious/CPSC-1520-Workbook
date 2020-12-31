@@ -23,7 +23,7 @@
     - Direct students' attention to the docs and [My Notes](../../docs/mynotes/ReadMe.md) portion of the workbook
   - [ ] Committing Changes and Synchronizing (pull/push) with GitHub
 - **Basics of JavaScript Execution**
-  - [ ] [JavaScript Spec (ES5 vs ES6 vs ES7)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources) and [Implementations (Chakra vs Spider Monkey vs V8)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources#Implementations)
+  - [ ] [JavaScript Spec (ES5 vs ES6 vs ES7)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources) and [Implementations (Chakra for *Opera* vs Spider Monkey for *FireFox* vs V8 for *Chrome*)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources#Implementations)
   - [ ] Browsers and JavaScript Engines
     - How the browser parses pages and scripts
     - Interpreted vs compiled programming languages
