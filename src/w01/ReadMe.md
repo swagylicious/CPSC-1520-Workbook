@@ -19,7 +19,7 @@
   - [ ] Setup student workbooks
   - [ ] Basics of MarkDown
     - Edit the [**ReadMe.md**](../../ReadMe.md) file at the root of your workbook
-    - Create a [ReadMe.md](./demos/ReadMe.md) file
+    - Create a [ReadMe.md](./demos/ReadMe.md) file and add an image (screenshot of [QR Code for their name](https://www.the-qrcode-generator.com/))
     - Direct students' attention to the docs and [My Notes](../../docs/mynotes/ReadMe.md) portion of the workbook
   - [ ] Committing Changes and Synchronizing (pull/push) with GitHub
 - **Basics of JavaScript Execution**
