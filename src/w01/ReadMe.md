@@ -12,21 +12,29 @@
 - **Intro to the Course**
   - [ ] Introduce the course outline, syllabus, and planning calendar
   - [ ] Outline classroom etiquette and what is expected from students regarding attendance, homework, and effort
-  - [ ] Briefly review the required text resource online at http://eloquentjavascript.net/index.html 
+  - [ ] Briefly review the required text resource online at http://eloquentjavascript.net/index.html
+  - [ ] Install [Required Software](../../ReadMe.md)
+    - [git](https://git-scm.com/downloads)
+    - [Visual Studio **Code**](https://code.visualstudio.com)
 - **Introduction to git and GitHub**
   - [ ] Discuss git and version control
   - [ ] Setup student GitHub accounts
   - [ ] Setup student workbooks
   - [ ] Basics of MarkDown
+    - Direct students' attention to the docs and [My Notes](../../docs/mynotes/ReadMe.md) portion of the workbook
     - Edit the [**ReadMe.md**](../../ReadMe.md) file at the root of your workbook
     - Create a [ReadMe.md](./demos/ReadMe.md) file and add an image (screenshot of [QR Code for their name](https://www.the-qrcode-generator.com/))
-    - Direct students' attention to the docs and [My Notes](../../docs/mynotes/ReadMe.md) portion of the workbook
   - [ ] Committing Changes and Synchronizing (pull/push) with GitHub
 - **Basics of JavaScript Execution**
   - [ ] [JavaScript Spec (ES5 vs ES6 vs ES7)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources) and [Implementations (Chakra for *Opera* vs Spider Monkey for *FireFox* vs V8 for *Chrome*)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources#Implementations)
+    - JavaScript is
+      - Case Sensitive
+      - *not* a Type-Safe language (like C#)
   - [ ] Browsers and JavaScript Engines
     - How the browser parses pages and scripts
     - Interpreted vs compiled programming languages
+      - Compiled programs tend to run faster, but are specific to the OS/hardware it is run on
+      - Interpreted languages are a bit slower, but don't have to worry about the OS/hardware, because it runs in a "context" (the browser) that interprets the code
 
 ## Day 3
 
@@ -45,4 +53,4 @@
   - [ ] Simple variable declarations
   - [ ] Simple types (strings and numbers)
 - **In-Class Assessment**
-  - [ ] Have students work through the console exercise (not for marks) and in-class assessment (for marks), which **must be completed by the end of class** <!--(only release the in-class assessment in class on this day on the projector; DO NOT release through Moodle).-->
+  - [ ] Have students work through the console exercise (not for marks) and in-class assessment (for marks), which **must be completed by the end of class** <!--(only release the in-class assessment in class on this day via GitHub Classroom Assignment; DO NOT release through Moodle).-->
