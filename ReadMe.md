@@ -1,6 +1,6 @@
 # CPSC-1520 - **Student Workbook** (Jan 2021)
 
-> **STUDENT_NAME** - Place your name in this line.
+> **STUDENT_NAME**
 
 This repository is a **Student Workbook** "template repository" containing [**demos**](./src/demos/ReadMe.md) as well as a place for you to try out [**tutorials** and **practice materials**](./src/practice/ReadMe.md). Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs). Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes) folder to journal about what you are learning throughout this course.
 
