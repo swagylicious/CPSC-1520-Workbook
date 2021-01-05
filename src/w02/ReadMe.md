@@ -41,6 +41,3 @@ TODO:
 In-Class Assessment [Functions]
 Have students work through in-class assessment, which must be completed by the end of class (only release the in-class assessment in class on this day on the projector; DO NOT release through Moodle).
 Quiz
-
-
-<!-- -->
