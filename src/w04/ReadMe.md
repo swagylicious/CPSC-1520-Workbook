@@ -1,10 +1,6 @@
-# Week 4 - Lesson Plan
+# Week 4 - Lesson Plan ![Docs](https://img.shields.io/badge/Documentation%20Status-10--40%25%20Rough%20Outline-red?logo=Read%20the%20Docs)
 
 > Review the [**LOGs**](./LOGs.md) for this class.
-
-TODO:
-
-- [ ] Lesson topics of Events
 
 ---
 
