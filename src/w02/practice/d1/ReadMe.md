@@ -49,7 +49,7 @@ it a try.
 
 #### Exercise Steps
 
-1. Locate the HTML document ([console_exercise.html](./practice/console_exercise.html)) in the *practice/* folder.
+1. Locate the HTML document ([console_exercise.html](./practice/functions_exercise.html)) in the *practice/* folder.
 1. Right-click on the file and choose "Open with Live Server".
 
     ![](./images/step-1.png)
