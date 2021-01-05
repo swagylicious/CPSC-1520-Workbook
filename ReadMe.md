@@ -14,6 +14,7 @@ Additionally, you can find online notes at the course's [Moodle site](https://mo
 
 **Required** tools for this course include:
 
+- [git](https://git-scm.com/downloads)
 - [Visual Studio Code](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions)
 
 *Recommended* tools for this course include:
