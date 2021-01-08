@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Thasadith&display=swap');
+
+
+body {
+    display: grid;
+    gap: 10px;
+    grid-template-areas: 
+        "link head head"
+        "link main side"
+        "link foot foot";
+}
+
+body > main {
+    grid-area: main;
+}
+
+body > header {
+    grid-area: head;
+}
+
+body > footer {
+    grid-area: foot;
+}
+
+body > nav {
+    grid-area: link;
+}
+
+body > aside {
+    grid-area: side;
+    background-color: oldlace;
+}
+
+.top-nav {
+    background-color: silver;
+}
+.top-nav ul {
+    display: flex;
+    flex-direction: column;
+}
+.top-nav ul li {
+    list-style: none;
+}
