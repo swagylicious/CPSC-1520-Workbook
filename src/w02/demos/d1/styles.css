@@ -12,6 +12,10 @@ body {
         "link head head head head"
         "link head head head head"
         "link main main main side";
+    /* grid-template-areas:
+        "link head head head head"
+        "link main main main side"
+        "foot foot foot foot side"; */
 }
 
 body > * {
