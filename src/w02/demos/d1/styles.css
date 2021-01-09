@@ -55,15 +55,25 @@ body > aside {
 }
 
 .top-nav {
-    background-color: silver;
+    background-color: whitesmoke;
 }
 .top-nav ul {
     display: flex;
     flex-direction: column;
     padding: 0;
+    list-style: none;
 }
 .top-nav ul li {
-    list-style: none;
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+.top-nav a {
+    text-decoration: none;
+    font-size:1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Lato';
 }
 
 h1, h2, h3 {
