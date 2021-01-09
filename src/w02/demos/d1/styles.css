@@ -85,3 +85,19 @@ body > aside {
 h1, h2, h3 {
     font-family: 'Lora', serif;
 }
+
+header {
+    position: relative;
+}
+header > address {
+    position: relative;
+    bottom: 70px;
+    left: 500px;
+}
+header > address > a {
+    text-decoration: none;
+    color: inherit;
+}
+header > address > a:hover {
+    text-decoration: underline;
+}
