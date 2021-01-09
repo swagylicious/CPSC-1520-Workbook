@@ -6,10 +6,12 @@ body {
     font-size: 30px;
     display: grid;
     gap: 10px;
-    grid-template-areas: 
+    grid-template-areas:
+        "foot head head head head"
         "link head head head head"
-        "link main main main side"
-        "foot foot foot foot side";
+        "link head head head head"
+        "link head head head head"
+        "link main main main side";
 }
 
 body > * {
