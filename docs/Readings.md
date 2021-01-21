@@ -1,6 +1,6 @@
-# Reading Assignments
+# Reading Assignments and Resources
 
-> The following reading assignments should be completed in the week identified. The reading items marked with a star (**:star:**) are tied to the quizzes for the course. The other readings are to round out your understanding of the materials presented in class and highly recommended for getting the most out of this course and preparing you for the follow-up course **DMIT2008 *Front-End Development***.
+> The following reading assignments should be completed in the week identified. The reading items marked with a star (**:star:**) are tied to the quizzes for the course. Readings in the e-book **Eloquent JavaScript** are required readings. The other readings and videos are to round out your understanding of the materials presented in class and highly recommended for getting the most out of this course and preparing you for the follow-up course **DMIT2008 *Front-End Development***.
 
 ## Week 01
 
@@ -105,20 +105,60 @@
 
 ----
 
-## Week 
+## Week 07
+
+- **Eloquent JavaScript**
+  - Chapter 2 - Program Structure
+    - [While and Do Loops](http://eloquentjavascript.net/02_program_structure.html#h_FaGGgUI+MM)
+    - [For Loops](http://eloquentjavascript.net/02_program_structure.html#h_oupMC+5FKN)
+    - [Breaking Out of a Loop](http://eloquentjavascript.net/02_program_structure.html#h_WWKAoSPJ47)
+    - [Updating Bindings Succinctly](http://eloquentjavascript.net/02_program_structure.html#h_1JSoOGP+6B)
+  - [Chapter 4 - Data Structures and Arrays](http://eloquentjavascript.net/04_data.html)
+- **Mozilla Developer Network**
+  - [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+  - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  - [NodeList API](https://developer.mozilla.org/en/docs/Web/API/NodeList)
+- **Lynda.com - [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)**
+  - Lesson 9: Loops
+    - Loops
+    - Looping through arrays
 
 ----
 
-## Week 
+## Week  08
+
+- **MDN**
+  - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  - [NodeList](https://developer.mozilla.org/en/docs/Web/API/NodeList)
+  - [Dates](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 ----
 
-## Week 
+## Week 10
+
+- **Eloquent JavaScript**
+  - Chapter 14 - Handling Events
+    - [Setting Timers](http://eloquentjavascript.net/15_event.html#h_hBzQOpfNhU)
+- **MDN** 
+  - [JavaScript Timers](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
+  - [Ternary Operator](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 
 ----
 
-## Week 
+## Week 11
+
+- **Eloquent JavaScript**
+  - [Chapter 13 - The Document Object Model](http://eloquentjavascript.net/13_dom.html)
+- [**MDN** Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 ----
 
-## Week 
+## Week 13
+
+- **Eloquent JavaScript**
+  - Chapter 4 - Data Structures: Objects and Arrays
+    - [JSON](http://eloquentjavascript.net/04_data.html#h_AxpOdvCznQ)
+  - Chapter 18 - HTTP and Forms
+    - [The Protocol](http://eloquentjavascript.net/18_http.html#h_G1xxLfiYeu)
+    - [Browsers and HTTP](http://eloquentjavascript.net/18_http.html#h_G1xxLfiYeu)
+    - [Fetch](http://eloquentjavascript.net/18_http.html#h_1Iqv5okrKE)
