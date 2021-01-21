@@ -83,8 +83,41 @@
   - Lesson 3:  Working With Data
     - Conditional statements and logic
     - Advanced conditions and logic
-- [MDN - String API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [**MDN** - String API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
   - The API documentation allows you to see what exactly you can do with strings and how to use the code through examples. Explore some of the string methods; it will prepare for you more complex work in the near future.
+
+----
+
+## Week 05
+
+- **Eloquent JavaScript**
+  - Chapter 2 - Program Structure
+    - Dispatching on a Value with a Switch
+  - [Chapter 18 - Forms and Form Fields](http://eloquentjavascript.net/02_program_structure.html#h_jMKsa0SXdL)
+    - [Fields](http://eloquentjavascript.net/18_http.html#h_H222GOgM6T)
+    - [Focus](http://eloquentjavascript.net/18_forms.html#h_/n9VuL9o/U)
+    - [Disabled Fields](http://eloquentjavascript.net/18_forms.html#h_l2z9T1FDym)
+    - [The Form as a Whole](http://eloquentjavascript.net/18_forms.html#h_R8SZxHmDt0)
+    - [Text Fields](http://eloquentjavascript.net/18_forms.html#h_+RaBROT23F)
+    - [Checkboxes and Radio Buttons](http://eloquentjavascript.net/18_forms.html#h_axUK+XNvTN)
+    - [Select Fields](http://eloquentjavascript.net/18_forms.html#h_eaB6RprDK3)
+- [**MDN** - HTML Forms Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
+
+----
+
+## Week 
+
+----
+
+## Week 
+
+----
+
+## Week 
+
+----
+
+## Week 
 
 ----
 
