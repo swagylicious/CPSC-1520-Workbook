@@ -1,6 +1,6 @@
 # Reading Assignments and Resources
 
-> The following reading assignments should be completed in the week identified. The reading items marked with a star (**:star:**) are tied to the quizzes for the course. Readings in the e-book **Eloquent JavaScript** are required readings. The other readings and videos are to round out your understanding of the materials presented in class and highly recommended for getting the most out of this course and preparing you for the follow-up course **DMIT2008 *Front-End Development***.
+> The following reading assignments should be completed in the week identified. The reading items marked with a star (**:star:**) are tied to the quizzes for the course. Readings listed for the e-book [**Eloquent JavaScript**](https://eloquentjavascript.net/) are required readings. The other readings and videos are to round out your understanding of the materials presented in class and highly recommended for getting the most out of this course and preparing you for the follow-up course **DMIT2008 *Front-End Development***.
 
 ## Week 01
 
