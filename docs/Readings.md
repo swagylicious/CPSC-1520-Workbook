@@ -1,6 +1,6 @@
 # Reading Assignments
 
-> The following reading assignments should be completed in the week identified.
+> The following reading assignments should be completed in the week identified. The reading items marked with a star (**:star:**) are tied to the quizzes for the course. The other readings are to round out your understanding of the materials presented in class and highly recommended for getting the most out of this course and preparing you for the follow-up course **DMIT2008 *Front-End Development***.
 
 ## Week 01
 
@@ -17,7 +17,7 @@
     - [Indenting Code](http://eloquentjavascript.net/02_program_structure.html#h_3I0M2f1Cmh)
     - [Capitalization](http://eloquentjavascript.net/02_program_structure.html#h_t54vuASjLD)
     - [Comments](http://eloquentjavascript.net/02_program_structure.html#h_/OBuIOX390)
-  - [Chapter 12 - JavaScript and the Browser](http://eloquentjavascript.net/12_browser.html)
+  - **:star:** [Chapter 12 - JavaScript and the Browser](http://eloquentjavascript.net/12_browser.html)
 - **Speaking JavaScript [Optional]**
   - [Chapter 2 - Why JavaScript?](http://speakingjs.com/es5/ch02.html)
   - [Chapter 3 - The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
@@ -50,15 +50,41 @@
   - There are many widely accepted standards for writing clean JavaScript code. The one linked here is Google's suggested guide. The important thing is that you choose a standard and stick with it!
   - Click [this link](https://google.github.io/styleguide/javascriptguide.xml) to open the resource.
 - **Lynda.com - [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)**
+  - Lesson 4:  Functions and Objects
+    - Functions in JavaScript
+    - Build a basic function
+    - Add arguments to the function
+    - Return values from a function
+    - Anonymous functions
+    - Variable scope
+    - ES2015: let and const
+
 ----
 
 ## Week 03
 
-
+- **Eloquent JavaScript**
+  - Chapter 14 - Handling Events](http://eloquentjavascript.net/14_event.html)
+    - From Event Handlers to Mouse Motion
+- **Lynda.com - [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)**
+  - Lesson 7:  JavaScript and DOM, Part 2: Events (all videos)
+- [JavaScript Events Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/Events)
 
 ----
 
-## Week 
+## Week 04
+
+- **Eloquent JavaScript**
+  - [Chapter 1 - Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
+  - Chapter 2 - Program Structure
+    - [Control Flow](http://eloquentjavascript.net/02_program_structure.html#h_rDxYNPd65Z)
+    - [Conditional Execution](http://eloquentjavascript.net/02_program_structure.html#h_wpz5oi2dy7)
+- **Lynda.com - [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)**
+  - Lesson 3:  Working With Data
+    - Conditional statements and logic
+    - Advanced conditions and logic
+- [MDN - String API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+  - The API documentation allows you to see what exactly you can do with strings and how to use the code through examples. Explore some of the string methods; it will prepare for you more complex work in the near future.
 
 ----
 
