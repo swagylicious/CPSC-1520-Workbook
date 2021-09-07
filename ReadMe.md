@@ -1,6 +1,6 @@
-# CPSC-1520 - **Student Workbook** (Jan 2021)
+# CPSC-1520 - **Student Workbook** (Sep 2021)
 
-> **STUDENT_NAME**
+> **STUDENT_NAME** - Place your name in this line.
 
 This repository is a **Student Workbook** "template repository" containing [**demos**](./src/demos/ReadMe.md) as well as a place for you to try out [**tutorials** and **practice materials**](./src/practice/ReadMe.md). Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs). Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes) folder to journal about what you are learning throughout this course.
 
@@ -10,11 +10,26 @@ Additionally, you can find online notes at the course's [Moodle site](https://mo
 
 ----
 
+## ![Software et.al.](./docs/images/tasks.png) Version Control
+
+At the end of the term, your repositories on this [CPSC-1520 GitHub Organization](https://github.com/CPSC-1520) will be removed. You will still have access to your local versions of these repositories for your personal use and review.
+
+> :warning: **Do *NOT*** re-publish your assignment/assessment repositories - doing so with any materials worth marks is an act of academic dishonesty :warning:
+
+----
+
 ## ![Software et.al.](./docs/images/code.png) Software & Resources
 
-**Required** tools for this course include:
+**Required** books, videos, tools, etc. for this course include:
 
-- [Visual Studio Code](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions)
+- ["**Eloquent JavaScript**, 3rd Edition: A Modern Introduction to Programming"](https://eloquentjavascript.net/) (ISBN-13: 978-1593279509) - As identified in the course outline
+  - [**Chapter 2**](https://eloquentjavascript.net/02_program_structure.html) - Program Structure
+  - [Chapter 3](https://eloquentjavascript.net/03_functions.html) - Functions
+  - [Chapter 4](https://eloquentjavascript.net/04_data.html) - Data Structures: Objects and Arrays
+  - [**Chapter 14**](https://eloquentjavascript.net/14_dom.html) - The Document Object Model
+- [**Visual Studio Code**](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions)
+  - [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Extension
+- [**The New Way To Debug JavaScript in VS Code - No Extension Required**](https://youtu.be/tC91t9OvVHA) (Video - 7:20)
 
 *Recommended* tools for this course include:
 
@@ -23,11 +38,12 @@ Additionally, you can find online notes at the course's [Moodle site](https://mo
 
 Other recommended resources include:
 
-- ["Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming"](https://eloquentjavascript.net/) (ISBN-13: 978-1593279509) - As identified in the course outline
 - [Learn Markdown](https://commonmark.org/help/)
 - **Mozilla Developer Network** (*MDN*)
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [JavaScript - Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
+![Eloquent JavaScript](https://eloquentjavascript.net/img/cover.jpg)
 
 ----
 
@@ -35,18 +51,10 @@ Other recommended resources include:
 
 Here are some helpful VS Code Extensions for JavaScript, HTML, and CSS Development.
 
-#### Required
-
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-  - [Debugging JavaScript Projects with VS Code & chrome Debugger](https://www.sitepoint.com/debugging-javascript-projects-vs-code-chrome-debugger/)
+- [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Markdown All-In-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-
-#### Recommended
-
-- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) 
 
 ----
 
