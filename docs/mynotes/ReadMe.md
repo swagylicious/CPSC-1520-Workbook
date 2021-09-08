@@ -15,6 +15,8 @@
 img:first-child {
     float: left;
     width: auto;
+    padding-right: 15px;
+    margin-left: 15px;
 }
 </style>
 
