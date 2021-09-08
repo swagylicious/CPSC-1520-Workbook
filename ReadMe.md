@@ -2,7 +2,7 @@
 
 > **STUDENT_NAME** - Place your name in this line.
 
-This repository is a **Student Workbook** "template repository" containing [**demos**](./src/demos/ReadMe.md) as well as a place for you to try out [**tutorials** and **practice materials**](./src/practice/ReadMe.md). Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes) folder to journal about what you are learning throughout this course.
+This repository is your **Student Workbook** for participating in the in-class demos and for completing practice homework. Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
 
 > :warning: **Do *NOT*** use this repository for any assignments that are worth marks. For work worth marks in this course, only use repositories set up/approved by your instructor. :warning:
 
@@ -23,16 +23,16 @@ At the end of the term, your repositories on this [CPSC-1520 GitHub Organization
 **Required** books, videos, tools, etc. for this course include:
 
 - **Software**
-  - [**git**](https://git-scm.com/downloads)
-  - [**GitHub CLI**](https://cli.github.com/) (*Command-Line Interface*)
-  - [**node**](https://nodejs.org/en/download/) (which includes **npm**)
-  - [**Visual Studio Code**](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions)
+  - [**git**](https://git-scm.com/downloads) - This is the beating heart of **Version Control**, something that you will work with every day. Second only to your editor in terms of usage, it's indispensible for managing your development in teams or on your own.
+  - [**GitHub CLI**](https://cli.github.com/) (*Command-Line Interface*) - A tool for interacting with your GitHub repository on the command line.
+  - [**node**](https://nodejs.org/en/download/) (which includes **npm**) - Node is a run-time that allows you to use JavaScript on the web server. It comes along with npm (*Node Package Manager*), a package-management tool for the command line that allows you to integrate 3rd-party libraries with your application.
+  - [**Visual Studio Code**](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions) - This is the preferred editor for working in almost any programming language.
     - [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Extension
 - **Accounts/Services**
-  - [**GitHub**] - Core to everything you will do, this service handles cloud hosting of your repositories and so, so much more!
-  - [**Netlify**]
-  - [**Vercel**]
-  - [**FireBase**]
+  - [**GitHub**](https://github.com) - Core to everything you will do, this service handles cloud hosting of your repositories and so, so much more!
+  - [**Netlify**](https://www.netlify.com/) - Hosting platform for your website projects. Ultimately, you will need to know how to publish your projects as part of a *Continuous Integration* and *Continuous Development* (CI/CD) workflow. Suitable for static websites.
+  - [**Vercel**](https://vercel.com/) - Like *Netlify*, *Vercel* offers hosting and CI/CD workflows to aid you in publishing your websites.
+  - [**FireBase**](https://firebase.google.com/) - Similar to *Netlify* and *Vercel*, FireBase also offers various features/products to support dynamic websites, including *realtime databases* and *authentication*.
 - **Books/Videos**
   - ["**Eloquent JavaScript**, 3rd Edition: A Modern Introduction to Programming"](https://eloquentjavascript.net/) (ISBN-13: 978-1593279509) - As identified in the course outline
     - [**Chapter 2**](https://eloquentjavascript.net/02_program_structure.html) - Program Structure
@@ -40,10 +40,6 @@ At the end of the term, your repositories on this [CPSC-1520 GitHub Organization
     - [Chapter 4](https://eloquentjavascript.net/04_data.html) - Data Structures: Objects and Arrays
     - [**Chapter 14**](https://eloquentjavascript.net/14_dom.html) - The Document Object Model
   - [**The New Way To Debug JavaScript in VS Code - No Extension Required**](https://youtu.be/tC91t9OvVHA) (Video - 7:20)
-
-*Recommended* tools for this course include:
-
-- **Version Control**
 
 Other recommended resources include:
 
@@ -66,23 +62,3 @@ Here are some helpful VS Code Extensions for JavaScript, HTML, and CSS Developme
 - [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 ----
-
-### Badges
-
-Custom badges for indicating documentation status and code status are generated from the [**Shields.io**](https://Shields.io) website. Here are a few samples.
-
-> ![Docs](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-brightgreen?logo=Read%20the%20Docs)
->
-> ![Docs](https://img.shields.io/badge/Documentation%20Status-~90%25%20Mostly%20Complete-blue?logo=Read%20the%20Docs)
->
-> ![Docs](https://img.shields.io/badge/Documentation%20Status-~70%25%20+%20Usable-yellow?logo=Read%20the%20Docs)
->
-> ![Docs](https://img.shields.io/badge/Documentation%20Status-40--70%25%20Incomplete/Draft-orange?logo=Read%20the%20Docs)
->
-> ![Docs](https://img.shields.io/badge/Documentation%20Status-10--40%25%20Rough%20Outline-red?logo=Read%20the%20Docs)
->
-> ![Docs](https://img.shields.io/badge/Documentation%20Status-~10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
->
-> ![Code](https://img.shields.io/badge/Code%20Status-Demo%20|%20Practice-blueviolet?logo=Visual%20Studio%20Code&labelColor=indigo)
->
-> ![Docs](https://img.shields.io/badge/Documentation%20Status-~70--90%25-green)
