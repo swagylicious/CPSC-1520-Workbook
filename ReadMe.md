@@ -10,7 +10,7 @@ Additionally, you can find online notes at the course's [Moodle site](https://mo
 
 ----
 
-## ![Software et.al.](./docs/images/tasks.png) Version Control
+## ![Version Control](./docs/images/tasks.png) Version Control
 
 At the end of the term, your repositories on this [CPSC-1520 GitHub Organization](https://github.com/CPSC-1520) will be removed. You will still have access to your local versions of these repositories for your personal use and review.
 
@@ -22,21 +22,28 @@ At the end of the term, your repositories on this [CPSC-1520 GitHub Organization
 
 **Required** books, videos, tools, etc. for this course include:
 
-- [git](https://git-scm.com/downloads)
-- [Visual Studio Code](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions)
-- ["**Eloquent JavaScript**, 3rd Edition: A Modern Introduction to Programming"](https://eloquentjavascript.net/) (ISBN-13: 978-1593279509) - As identified in the course outline
-  - [**Chapter 2**](https://eloquentjavascript.net/02_program_structure.html) - Program Structure
-  - [Chapter 3](https://eloquentjavascript.net/03_functions.html) - Functions
-  - [Chapter 4](https://eloquentjavascript.net/04_data.html) - Data Structures: Objects and Arrays
-  - [**Chapter 14**](https://eloquentjavascript.net/14_dom.html) - The Document Object Model
-- [**Visual Studio Code**](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions)
-  - [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Extension
-- [**The New Way To Debug JavaScript in VS Code - No Extension Required**](https://youtu.be/tC91t9OvVHA) (Video - 7:20)
+- **Software**
+  - [**git**](https://git-scm.com/downloads)
+  - [**GitHub CLI**](https://cli.github.com/) (*Command-Line Interface*)
+  - [**node**](https://nodejs.org/en/download/) (which includes **npm**)
+  - [**Visual Studio Code**](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions)
+    - [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Extension
+- **Accounts/Services**
+  - [**GitHub**] - Core to everything you will do, this service handles cloud hosting of your repositories and so, so much more!
+  - [**Netlify**]
+  - [**Vercel**]
+  - [**FireBase**]
+- **Books/Videos**
+  - ["**Eloquent JavaScript**, 3rd Edition: A Modern Introduction to Programming"](https://eloquentjavascript.net/) (ISBN-13: 978-1593279509) - As identified in the course outline
+    - [**Chapter 2**](https://eloquentjavascript.net/02_program_structure.html) - Program Structure
+    - [Chapter 3](https://eloquentjavascript.net/03_functions.html) - Functions
+    - [Chapter 4](https://eloquentjavascript.net/04_data.html) - Data Structures: Objects and Arrays
+    - [**Chapter 14**](https://eloquentjavascript.net/14_dom.html) - The Document Object Model
+  - [**The New Way To Debug JavaScript in VS Code - No Extension Required**](https://youtu.be/tC91t9OvVHA) (Video - 7:20)
 
 *Recommended* tools for this course include:
 
 - **Version Control**
-  - [GitHub CLI](https://cli.github.com/) (*Command-Line Interface*)
 
 Other recommended resources include:
 
