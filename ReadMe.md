@@ -22,6 +22,8 @@ At the end of the term, your repositories on this [CPSC-1520 GitHub Organization
 
 **Required** books, videos, tools, etc. for this course include:
 
+- [git](https://git-scm.com/downloads)
+- [Visual Studio Code](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions)
 - ["**Eloquent JavaScript**, 3rd Edition: A Modern Introduction to Programming"](https://eloquentjavascript.net/) (ISBN-13: 978-1593279509) - As identified in the course outline
   - [**Chapter 2**](https://eloquentjavascript.net/02_program_structure.html) - Program Structure
   - [Chapter 3](https://eloquentjavascript.net/03_functions.html) - Functions
