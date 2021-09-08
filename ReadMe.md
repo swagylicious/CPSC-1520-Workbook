@@ -2,7 +2,7 @@
 
 > **STUDENT_NAME** - Place your name in this line.
 
-This repository is your **Student Workbook** for participating in the in-class demos and for completing practice homework. Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
+This repository is your **Student Workbook** for participating in the in-class demos and for completing practice homework; the coding work is to be placed in the [*`src/`*](./src/ReadMe.md) folder. Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
 
 > :warning: **Do *NOT*** use this repository for any assignments that are worth marks. For work worth marks in this course, only use repositories set up/approved by your instructor. :warning:
 
