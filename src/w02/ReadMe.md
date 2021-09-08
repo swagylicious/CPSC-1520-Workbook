@@ -14,9 +14,9 @@ TODO:
 
 - **Linking Scripts**
   - [ ] Introduce directory structure
-  - [ ] Discuss <script> tag placement and concerns/issues that developers should be aware of that dictate when to place in the head vs body element.
-        1. End of <body> for efficiency
-        1. In the <head> if required
+  - [ ] Discuss `<script>` tag placement and concerns/issues that developers should be aware of that dictate when to place in the head vs body element.
+        1. End of `<body>` for efficiency
+        1. In the `<head>` if required
 - **String Concatenation**
   - [ ] Practice with prompt() to get user input and concatenate with a message for output to the document
     - Go through greet_user example

@@ -23,7 +23,7 @@
   - [ ] Basics of MarkDown
     - Direct students' attention to the docs and [My Notes](../../docs/mynotes/ReadMe.md) portion of the workbook
     - Edit the [**ReadMe.md**](../../ReadMe.md) file at the root of your workbook
-    - Create a [ReadMe.md](./demos/ReadMe.md) file and add an image (screenshot of [QR Code for their name](https://www.the-qrcode-generator.com/))
+    - Create a [ReadMe.md](./demos/ReadMe.md) file in the `demos` folder and add an image (screenshot of [QR Code for their name](https://www.the-qrcode-generator.com/))
   - [ ] Committing Changes and Synchronizing (pull/push) with GitHub
 - **Basics of JavaScript Execution**
   - [ ] [JavaScript Spec (ES5 vs ES6 vs ES7)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources) and [Implementations (Chakra for *Opera* vs Spider Monkey for *FireFox* vs V8 for *Chrome*)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources#Implementations)

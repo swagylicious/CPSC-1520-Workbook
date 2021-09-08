@@ -11,6 +11,7 @@
 - Create and synchronize commits as a means of submitting your work
 - Setup and access your workbook for the course
 - Create notes written in Markdown format
+- Use Visual Studio Code's git integration to commit and synchronize changes to workbook
 
 ## JavaScript Introduction
 
