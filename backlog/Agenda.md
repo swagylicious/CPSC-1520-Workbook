@@ -4,6 +4,13 @@
 
 ## W01D3
 
+- **Reminder:** Where is your repo on your computer?
+  - NOT IN
+    - OneDrive
+    - DropBox
+    - Removable USB Flash Drive
+- Class Videos tab
+  - Video - [What is GitHub](https://youtu.be/w3jLJU7DT5E)
 - Learn git commands
 - Learn Markdown
   - **CHAT:** Fill in the blank for the following statement: "HTML is a ______ language."
