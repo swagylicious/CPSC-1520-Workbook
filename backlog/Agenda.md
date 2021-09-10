@@ -11,6 +11,7 @@
     - Removable USB Flash Drive
 - Class Videos tab
   - Video - [What is GitHub](https://youtu.be/w3jLJU7DT5E)
+- GitHub User Profile
 - Learn git commands
 - Learn Markdown
   - **CHAT:** Fill in the blank for the following statement: "HTML is a ______ language."
