@@ -6,4 +6,20 @@
 
 - Learn git commands
 - Learn Markdown
-  - Fill in the blank for the following statement: "HTML is a ______ language."
+  - **CHAT:** Fill in the blank for the following statement: "HTML is a ______ language."
+    - "Markup"
+  - **001** steps
+    - H1-H6, Paragraphs, Unordered Lists, Ordered Lists, Bulletted Lists, 
+- GitHub Features
+  - Issues / Milestones
+  - Pull-Requests
+  - GitHub CLI
+    - Using `--help`
+    - `gh pr list`
+    - `gh pr view`
+    - `gh issue list`
+    - `gh issue view`
+    - `gh issue create`
+- More Markdown
+  - **002** steps
+    - Images, Tables, Links
