@@ -39,13 +39,17 @@ Loading external JavaScript files is accomplished through the `<script>` element
 
 ## Software Design ![Docs](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-brightgreen?logo=Read%20the%20Docs)
 
+"Tight coupling" makes for bad design, because changes in either area can potentially "break" the other areas.
+
+![Bad](./images/BadDesign.png)
+
 "Loose coupling" between the areas of Content, Presentation, and Functionality makes for a flexible design that is easy to maintain.
 
 ![Good](./images/GoodDesign.png)
 
-"Tight coupling" makes for bad design, because changes in either area can potentially "break" the other areas.
+This is not to say that content, presentation and functionality have no reference to each other. It's just that we want the connections between them to be ["unobtrusive"](https://dictionary.cambridge.org/dictionary/english/unobtrusive). In the case of web pages, it's the browser's job to bring together HTML, CSS and JavaScript files; this happens in the rendering process for the page.
 
-![Bad](./images/BadDesign.png)
+![Rendering](./images/HTML-CSS-JS-Processed.png)
 
 ----
 
