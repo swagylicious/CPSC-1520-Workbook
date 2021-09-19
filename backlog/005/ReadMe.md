@@ -16,6 +16,13 @@ Values for these primitive types can be expressed as **literal values** or be co
 
 The three keywords we use to declare variables are [**`let`**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let), [**`var`**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var) and [**`const`**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const). Variables have their data type determined by the value stored in the variable. The data type of a variable is *mutable*. In other words, you can change the data type of a variable by simply putting in a value with a different data type. Variables in javaScript are **not** type-safe.
 
+The only time you cannot change a variable's data type is when you can't change its value. If we want a variable to always have a specific value, we would declare it as a constant.
+
+```js
+const pi = 3.14
+pi = 3.14159 // This produces an error, because pi is a constant
+```
+
 The primitive data types can be expressed as **literal values**. For strings, we simply enclose the text in a pair of either single quotes (as in `'Hello'`) or double quotes (as in `"Hello"`). For numbers, we use simple digits, as in `3.14159` or `7`. To distinguish a *BigInt* literal value, we place the character `n` at the end of the number, as in `100n`.
 
 One of the ways we can find out what data type is in a variable is by using the [**`typeof`**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof) operator. If your data type is some kind of object (as opposed to a primitive type), then you can use the [**`instanceof`**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof) keyword to test the specific kind of object that the variable represents.
@@ -60,6 +67,12 @@ If you want to convert a string to a number, you can use the `parseFloat()` or `
 ```
 
 If you need additional mathematical operations besides what is available as arithmetic operators, you can use the built-in [**Math**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) object.
+
+----
+
+## References
+
+- For more on `let` vs `var`, see the article ["var, let, or const?"](https://hackernoon.com/js-var-let-or-const-67e51dbb716f)
 
 ----
 
