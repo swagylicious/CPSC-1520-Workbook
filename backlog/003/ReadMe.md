@@ -6,7 +6,7 @@ Before beginning this walkthrough, you should know how to take screenshots. One 
 
 ![Jing](https://assets.techsmith.com/Images/content/ce-tutorials-knowmia/techsmith-capture-app.png)
 
-> **Note:** Lessons will occassionally have [References](#references) at the end of the document. These include credit notices and additional resources/readings related to topics in this lesson.
+> **Note:** Lessons will occasionally have [References](#references) at the end of the document. These include credit notices and additional resources/readings related to topics in this lesson.
 
 1. Open your web browser and navigate to any website. (The contents of the website are irrelevant to this walkthrough.)
 1. Open the browser's Developer Tools and select the console. In here, you will be entering JavaScript code as directed by your instructor.
