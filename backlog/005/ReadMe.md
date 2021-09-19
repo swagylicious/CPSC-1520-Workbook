@@ -68,10 +68,13 @@ If you want to convert a string to a number, you can use the `parseFloat()` or `
 
 If you need additional mathematical operations besides what is available as arithmetic operators, you can use the built-in [**Math**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) object.
 
+> There's a lot more to learn about handling information in JavaScript, and knowing how to work with the primitive types is foundational. But don't stick with just the primitives - you will get more ["bang for your buck"](https://en.wikipedia.org/wiki/Bang_for_the_buck#:~:text=Bang%20for%20the%20buck%20is,%22%20which%20means%20%22money%22.&text=Today%2C%20the%20phrase%20is%20used,worth%20for%20the%20money%20used.) if you learn to work with objects, both the ones intrinsic to JavaScript and the ones you can create for yourself.
+
 ----
 
 ## References
 
+- ["Primitive Obsession - A Code Smell that Hurts People the Most"](https://medium.com/the-sixt-india-blog/primitive-obsession-code-smell-that-hurt-people-the-most-5cbdd70496e9)
 - For more on `let` vs `var`, see the article ["var, let, or const?"](https://hackernoon.com/js-var-let-or-const-67e51dbb716f)
 
 ----
