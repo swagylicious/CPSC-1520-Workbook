@@ -19,6 +19,14 @@
     - Go through events-default-behaviour example
     - Clicking links (override default behavior) displays full-size image
 
+### Code Snippets
+
+```js
+elem.classList.add('class-name');    // Adds a CSS class to an element in the DOM
+elem.classList.remove('class-name'); // Removes a CSS class from an element in the DOM
+```
+
+
 ----
 
 ## Demo 1 ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
