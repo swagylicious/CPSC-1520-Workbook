@@ -12,8 +12,8 @@
     1. Select the target element
     1. Create the function (event handler)
     1. Add the function as an event listener to the element
-  - [ ] Event propagation
-  - [ ] Event default behavior
+  - [ ] Event propagation (bubbling)
+  - [ ] Event default behavior (links, buttons)
   - [ ] Go through events-intro example
     - E.g. clicking on links (`<a>`)
     - Go through events-default-behaviour example
