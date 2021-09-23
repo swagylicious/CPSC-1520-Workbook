@@ -29,15 +29,14 @@ The folders here represent distinct demos and practice materials as referenced i
 - [004](./004/ReadMe.md) - **JavaScript in Your WebPage**
 - [005](./005/ReadMe.md) - **Handling Information**
 - [006](./006/ReadMe.md) - **Intro to Functions in JavaScript**
-- [007](./007/ReadMe.md) - **Intro to Event Listeners**
-- [010](./010/ReadMe.md) - TBA - If/Else
-- [020](./020/ReadMe.md) - TBA - Forms
-- [030](./030/ReadMe.md) - TBA - Loops and NodeLists
-- [040](./040/ReadMe.md) - TBA - Arrays
-- [050](./050/ReadMe.md) - TBA - DOM API
-- [060](./060/ReadMe.md) - TBA - Objects, JSON and AJAX (Fetch)
-- [070](./070/ReadMe.md) - TBA - Scraping Data for DMIT Course Lists
-- [080](./080/ReadMe.md) - TBA
+- [010](./010/ReadMe.md) - **Intro to Event Listeners**
+- [020](./020/ReadMe.md) - TBA - If/Else
+- [030](./030/ReadMe.md) - TBA - Forms
+- [040](./040/ReadMe.md) - TBA - Loops and NodeLists
+- [050](./050/ReadMe.md) - TBA - Arrays
+- [060](./060/ReadMe.md) - TBA - DOM API
+- [070](./070/ReadMe.md) - TBA - Objects, JSON and AJAX (Fetch)
+- [080](./080/ReadMe.md) - TBA - Scraping Data for DMIT Course Lists
 - [090](./090/ReadMe.md) - TBA
 - [100](./100/ReadMe.md) - TBA
 - [110](./110/ReadMe.md) - TBA
