@@ -1,0 +1,21 @@
+main {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    /* background-color:teal; */
+    background-image: url("https://source.unsplash.com/random");
+    width: 800px;
+    height: 800px;
+}
+
+main > div {
+    border: solid thin blue;
+    background-color: aqua;
+    text-align: center;
+    font-size: 32px;
+}
+
+
+.reveal {
+    background-color: transparent;
+    border: 0;
+}
