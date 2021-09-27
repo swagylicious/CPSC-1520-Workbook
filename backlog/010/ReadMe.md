@@ -21,6 +21,8 @@
     - Go through events-default-behaviour example
     - Clicking links (override default behavior) displays full-size image
 
+----
+
 ### Code Snippets
 
 ```js
@@ -178,9 +180,9 @@ Reload the page in the browser (again checking for errors first) and now click t
 
 ---
 
-## Demo-3 ![Docs](https://img.shields.io/badge/Documentation%20Status-10--40%25%20Rough%20Outline-red?logo=Read%20the%20Docs)
+## Practice ![Docs](https://img.shields.io/badge/Documentation%20Status-10--40%25%20Rough%20Outline-red?logo=Read%20the%20Docs)
 
-> Similar to the last demo, but this time you are to use different event handlers.
+> Similar to the last demo, but this time you are to use different event handlers. Also note the changes to the HTML.
 
 Add JavaScript that creates separate event handlers to respond to the `mousedown`, `mouseup`, and `click` events for the `a.feature.link` element.
 
