@@ -9,12 +9,12 @@
 - **Introduce basics of event listening**
   - [ ] Types of events
   - [ ] Three steps for event listening
-    1. Select the target element
     1. Create the function (event handler)
-    1. Add the function as an event listener to the element
+    1. Select the target element (the element you are listening on)
+    1. Add the function as an event listener to the target element
   - [ ] Event propagation (bubbling)
   - [ ] Event default behavior (links, buttons)
-  - [ ] Go through events-intro example
+  - [ ] Go through examples
     - E.g. clicking on links (`<a>`)
     - Go through events-default-behaviour example
     - Clicking links (override default behavior) displays full-size image
