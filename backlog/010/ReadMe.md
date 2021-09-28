@@ -63,6 +63,18 @@ document.querySelector('p.feature.description')
 
 ----
 
+## Demo Mouse Events ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
+
+- Bubbling
+- MouseOver
+- MouseOut
+- MouseDown
+- MouseUp
+- Click
+- DblClick
+
+----
+
 ## Demo 2 ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E90%25%20Mostly%20Complete-blue?logo=Read%20the%20Docs)
 
 > This demo is adapted from the original *"JavaScript Events"* practice on the course Moodle site.
@@ -178,7 +190,7 @@ Reload the page in the browser (again checking for errors first) and now click t
 
 ![Final Result](images/fig.2.png)
 
----
+----
 
 ## Practice ![Docs](https://img.shields.io/badge/Documentation%20Status-10--40%25%20Rough%20Outline-red?logo=Read%20the%20Docs)
 
