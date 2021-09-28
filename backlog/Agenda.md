@@ -31,3 +31,17 @@
 - More Markdown
   - **002** steps
     - Images, Tables, Links
+
+
+## 020
+
+- **If-else statement**
+  - [ ] Discuss the process of identifying conditions and then forming expressions that yield Boolean results
+  - [ ] Review relational and equality operators
+  - [ ] Go through decisions_intro example
+    - Clicking the image toggles the description display
+- **Operators**
+  - [ ] Discuss the difference between equality and identity operators
+  - [ ] == vs. === and != vs. !==
+  - [ ] Revisit decisions_intro example
+  - [ ] Have students work through posted decisions exercise for homework
