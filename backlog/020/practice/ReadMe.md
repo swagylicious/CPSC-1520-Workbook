@@ -1,4 +1,4 @@
-# Conditions and Decisions
+# Conditions and Decisions ![Docs](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-brightgreen?logo=Read%20the%20Docs)
 
 - [MDN - String API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) - The API documentation allows you to see what exactly you can do with strings and how to use the code through examples.  Explore some of the string methods; it will prepare for you more complex work in the near future.
 

@@ -1,9 +1,6 @@
-// 1. select the target element
-var featureImage = document.querySelector('img.feature');
-
-// 2. create the event listener function
-function handleFeatureClick() {
-	var desc = document.querySelector('p.feature.description');
+// 1. create the event listener function
+const handleFeatureClick = function () {
+	let desc = document.querySelector('p.feature.description');
 
 	// remove the hidden class IF it is present,
 	// otherwise, add it back!
@@ -22,6 +19,9 @@ function handleFeatureClick() {
 	}
 	*/
 }
+
+// 2. select the target element
+let featureImage = document.querySelector('img.feature');
 
 // 3. add event listener
 featureImage.addEventListener('click', handleFeatureClick);
