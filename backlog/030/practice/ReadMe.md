@@ -1,4 +1,4 @@
-# More Decisions and Forms
+# More Decisions and Forms ![Docs](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-brightgreen?logo=Read%20the%20Docs)
 
 - [MDN - HTML Forms Guide](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms) - A good thorough read through of html forms and how to work with forms via JavaScript.
 
@@ -55,8 +55,8 @@ Now that we have access, we simply need to pull the value out of the tags variab
 ```js
 document.querySelector('.feature.frm ')
         .addEventListener('submit', function (evt) {
-          var frm = evt.target;
-          var tag = frm.elements.tag;
+          let frm = evt.target;
+          let tag = frm.elements.tag;
           
           // insert a '# ' before the tag for aesthetics
           document.querySelector('p.feature.tags ').innerHTML += '#' + tag.value;
@@ -77,8 +77,8 @@ Great! Except that the form still has the value 'history' displayed. It would be
 ```js
 document.querySelector('.feature.frm ')
         .addEventListener('submit', function (evt) {
-          var frm = evt.target;
-          var tag = frm.elements.tag;
+          let frm = evt.target;
+          let tag = frm.elements.tag;
           
           // insert a '# ' before the tag for aesthetics
           document.querySelector('p.feature.tags ').innerHTML += '#' + tag.value;
@@ -100,8 +100,8 @@ Add the following code to enforce the non-empty value condition:
 ```js
 document.querySelector('.feature.frm ')
         .addEventListener('submit', function (evt) {
-          var frm = evt.target;
-          var tag = frm.elements.tag;
+          let frm = evt.target;
+          let tag = frm.elements.tag;
           
           // ensure that there is a value in the tag field before adding a tag
           if (tag.value.trim() != '') {
@@ -125,9 +125,9 @@ Include an else statement to accompany the current if condition that will reveal
 ```js
 document.querySelector('.feature.frm ')
         .addEventListener('submit', function (evt) {
-          var frm = evt.target;
-          var tag = frm.elements.tag;
-          var error = document.querySelector('p.feature.error');
+          let frm = evt.target;
+          let tag = frm.elements.tag;
+          let error = document.querySelector('p.feature.error');
           
           // ensure that there is a value in the tag field before adding a tag
           if (tag.value.trim() != '') {
