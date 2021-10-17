@@ -1,5 +1,5 @@
 // In loops, a TRUE value always re-enters the loop
-let outputDiv = document.querySelector('.output');
+let outputDiv = document.querySelector('div');
 let list = '<h2>While Loop</h2>';
 let count = 0; // count the number of list item
 

@@ -4,7 +4,7 @@
 		  whether the user would like to enter another
 		  name or not.
 */
-let outDiv = document.querySelector('.output');
+let outDiv = document.querySelector('div');
 
 let myHTML = '<ul>';
 
