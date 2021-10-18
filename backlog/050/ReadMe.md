@@ -13,7 +13,15 @@ The [guessing](./demos/guessing/main.js) game is a more complex example that use
 
 ----
 
-## Slideshow
+## *TBD*
+
+> An ad-hoc demonstration involving the following:
+> 
+> - Array creation/editing with `.push()` and `.pop()` and `.length`
+
+----
+
+## Slideshow *(Practice)*
 
 The slideshow demo presents us with the opportunity to create a carousel of images that the user can click through. The file names for the images are maintained in an **array**. The [current implementation](./demos/slideshow/js/main.js) is incomplete, however, because we want to provide another means of navigating the images: "bullets" that can be clicked to choose a specific image in the carousel.
 

@@ -1,5 +1,7 @@
 # Loops ![Docs](https://img.shields.io/badge/Documentation%20Status-10--40%25%20Rough%20Outline-red?logo=Read%20the%20Docs)
 
+This lesson covers the various ways we can code using looping logic. It also introduces the notions of [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) and various ways of running a function as soon as the DOM is loaded.
+
 ----
 
 ## Loops Intro
@@ -17,3 +19,5 @@ The [loops-intro](./demos/loops-intro/js/main.js) demo shows how to do the while
 ## Name List
 
 The [name-list](./demos/name-list/js/main.js) demo builds an unordered list with user input from the browser's `prompt` and `confirm` functions.
+
+> Let's modify this demo by doing two things. First, let's make use of template literals for building up the HTML markup in our JavaScript code. Second, let's write our code so that it independently waits until the document has finished loading (rather than depending on the `defer` attribute in the script tag).
