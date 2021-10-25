@@ -18,6 +18,18 @@ The [guessing](./demos/guessing/main.js) game is a more complex example that use
 > An ad-hoc demonstration involving the following:
 > 
 > - Array creation/editing with `.push()` and `.pop()` and `.length`
+> - Moving information from one unordered list to another unordered list
+
+----
+
+## JS MasterMind
+
+> by **Branko Tomic** - as extracted from [klomontes/js-mastermind](https://github.com/klomontes/js-mastermind) ([MIT License](https://github.com/klomontes/js-mastermind/blob/master/LICENSE))
+
+TODO:
+
+- Play the [game](http://klomontes.github.io/js-mastermind/)
+- Examine the code for the mastermind game.
 
 ----
 
