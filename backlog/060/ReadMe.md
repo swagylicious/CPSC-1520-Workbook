@@ -1,8 +1,70 @@
-# DOM Manipulation
+# DOM API and ~~Best~~ Good Practices
+
+> > "Best Practices" are for absolute beginners. The rest of us use "Good Prctices". <cite>Dan Gilleland</cite>
+
+----
+
+## Self-Contained Scripts ![Docs](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-brightgreen?logo=Read%20the%20Docs)
+
+It's a good idea to keep your JavaScript code "self-contained". By that, I mean having your code isolated as much as possible from the **Global Javascript Namespace**.
+
+In your browser, there is a top-most area of JavaScript known as the [**Global object**](https://developer.mozilla.org/en-US/docs/Glossary/Global_object). Everything accessible to your scripts (besides the JavaScript language itself) is contained in this object. It defines something called the ["global scope"](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope) or global "namespace". Any script loaded by the browser has access to the objects and functions defined in this scope. (That's why we are able to access the DOM through the `document` object - it's defined in that global scope.)
+
+> > The better practice is to *isolate our variables and functions* in a narrower scope - one that won't be impacted by external scripts.
+
+Because this global scope/namespace is shared by all scripts loaded by our page, it's possible to have a "collision" - a situation where two different scripts define a variable or function by the same name in the global scope. Yes, we can protect our variable by making it a `const` if need be, but all that may do is "break" the other scripts. Effectively, the more global variables and functions we create, the more we are "polutting" the global namespace. And [polutting the global namespace](https://www.tutorialspoint.com/what-is-global-namespace-pollution-in-javascript) is generally a bad idea.
+
+The better practice is to *isolate our variables and functions* in a narrower scope - one that won't be impacted by external scripts. One common way we can define our variables within a narrower "scope" is to create a "main" function that represents the "entry point" of our script. Any variables defined with a `let` or `const` inside that function will be **enclosed** in that function, effectively *hidden* from the global namespace. This concept is called ["closure"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) in JavaScript.
+
+```js
+const main = function(loadedEvent) {
+    // all your `let` variables and `const` function handlers
+}
+
+document.addEventListener('DOMContentLoaded', main);
+```
+
+Another way to avoid pollutting the global namespace is to use an *Immediately Invoked Function Expression* ([**IIFE**](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)). The following outlines the syntax for an IIFE using an *anonymous* (un-named) function.
+
+```js
+(function() {
+    // all your `let` variables and `const` function handlers
+})()
+```
+
+### Readings
+
+- [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope) (*MDN*)
+- [A Simple Explanation of Scope in JavaScript](https://dmitripavlutin.com/javascript-scope/)
+- [Understanding Variables, Scope, and Hoisting in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript)
+- [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- [The global object in JavaScript](https://www.contentful.com/blog/2017/01/17/the-global-object-in-javascript/)
+- [Namespacing Fundamentals](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/ch13s15.html)
+
+----
+
+## DOM API Intro ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
+
+> Demonstrate some of the DOM API properties for finding elements & node children
+>
+> - `.nextElementSibling`
+> - `.firstElmementChild`
+> - `.lastElementChild`
+> - `.children`
+> - `.textContent`
+>
+> Demonstrate DOM API functions for creating & assembling elements & text
+>
+> - `.createElement('tag')`
+> - `.createTextNode('text')`
+> - `.appendChild(node)`
+> - `.insertBefore(newChild, refChild)`
+
+----
+
+## Practice Exercise ![Docs](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-brightgreen?logo=Read%20the%20Docs)
 
 - [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-
-## DOM API
 
 > To follow along with this exercise, you will need to open the [practice/index.html](./practice/index.html) in your browser with Live-Server.
 
@@ -148,3 +210,19 @@ While innerHTML can be used to quickly add elements to the page, it becomes quit
 
 The following link allows you to run some DOM vs. innerHTML tests to compare performance: [DOM vs. innerHTML](http://jsperf.com/dom-vs-innerhtml)
 
+----
+
+<style>
+    blockquote > blockquote {
+        border-left: 0;
+        font-size: 1.2em;
+    }
+    blockquote > blockquote cite {
+        font-size: .7em;
+    }
+    blockquote > blockquote cite::before {
+        content: 'by ';
+        font-size: .7em;
+        font-style: normal;
+    }
+</style>
