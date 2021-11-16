@@ -47,18 +47,25 @@ Another way to avoid pollutting the global namespace is to use an *Immediately I
 
 > Demonstrate some of the DOM API properties for finding elements & node children
 >
-> - `.nextElementSibling`
-> - `.firstElmementChild`
-> - `.lastElementChild`
-> - `.children`
-> - `.textContent`
+> - **Element**`.nextElementSibling`
+> - **Element**`.firstElmementChild`
+> - **Element**`.lastElementChild`
+> - **Element**`.children`
+> - **Element**`.textContent`
+> - **Element**`.childNodes`
 >
 > Demonstrate DOM API functions for creating & assembling elements & text
 >
-> - `.createElement('tag')`
-> - `.createTextNode('text')`
-> - `.appendChild(node)`
-> - `.insertBefore(newChild, refChild)`
+> - **`document`**`.createElement('tag')`
+> - **`document`**`.createTextNode('text')`
+> - **`document`**`.createComment('text')`
+> - **Element**`.setAttribute(name, value)`
+> - **Element**`.getAttribute(name)`
+> - **Element**`.removeAttribute(name)`
+> - **Element**`.appendChild(node)`
+> - **Element**`.insertBefore(newChild, refChild)`
+> - **Element**`.removeChild(node)`
+> - **Element**`.replaceChild(newChild, existingChild)`
 
 ----
 
