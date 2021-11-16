@@ -34,10 +34,11 @@ The folders here represent distinct demos and practice materials as referenced i
 - [030](./030/ReadMe.md) - **Forms**
 - [040](./040/ReadMe.md) - **Loops**
 - [050](./050/ReadMe.md) - **Arrays**
-- [060](./060/ReadMe.md) - TBA - DOM API and NodeLists
+- [050](./055/ReadMe.md) - **Dates, Timers, Intervals**
+- [060](./060/ReadMe.md) - **DOM API and NodeLists**
 - [070](./070/ReadMe.md) - TBA - Objects, JSON and AJAX (Fetch)
 - [080](./080/ReadMe.md) - TBA - Scraping Data for DMIT Course Lists
-- [090](./090/ReadMe.md) - TBA
+- [090](./090/ReadMe.md) - TBA - Cookies and Storage
 - [100](./100/ReadMe.md) - TBA
 - [110](./110/ReadMe.md) - TBA
 - [120](./120/ReadMe.md) - TBA
