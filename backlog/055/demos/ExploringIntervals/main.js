@@ -1,6 +1,7 @@
 const addDots = function() {
     let myOutput = document.getElementById('dots');
     myOutput.innerText += '.';
+    myOutput.setAttribute('title', `There are ${myOutput.innerText.length} dots`);
 }
 
 // Start an interval
@@ -12,5 +13,9 @@ document.querySelector('button')
             if(cancellationRef) {
                 clearInterval(cancellationRef);
                 cancellationRef = 0;
+                evt.target.innerText = "Continue Interval";
+            } else {
+                cancellationRef = setInterval(addDots, 1250);
+                evt.target.innerText = "Stop Interval";
             }
         })
