@@ -4,26 +4,8 @@ const images = ['mountain1.jpg', 'mountain2.jpg', 'mountain3.jpg', 'mountain4.jp
 var currentImg = 0;
 var idx;
 
-// <<Start of my code changes...>>
-function updateSlide(index) {
-        // display the new current image
-        document.querySelector('.carousel>img').src = 'images/' + images[index];
-
-        // update the active selector bullet
-        document.querySelector('.image-tracker .active').classList.remove('active');
-        document.querySelectorAll('[data-idx]')[index].classList.add('active');
-}
-
-let slideshowInterval; // variable to track the context of the interval
-slideshowInterval = setInterval(function() {
-    currentImg += 1;
-    if (currentImg === images.length) {
-        currentImg = 0;
-    }
-    updateSlide(currentImg);
-}, 3000);
-
-// <</end of my code changes>>
+// <<Start of your code changes...>>
+// <</end of your code changes>>
 
 // display the current image
 document.querySelector('.carousel>img').src = 'images/' + images[0];

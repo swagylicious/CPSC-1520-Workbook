@@ -2,8 +2,21 @@
 
 ## Readings
 
+- [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 - [JavaScript Timers](https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Code_snippets/Timers) -
 - [JavaScript Ternary Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator) -
+
+----
+
+## Timely Demo
+
+----
+
+## Exploring Timeouts
+
+----
+
+## Exploring Intervals
 
 ----
 
