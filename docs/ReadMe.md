@@ -19,7 +19,7 @@ In every project you undertake in your software development career, there are th
 
 ## [Readings](Readings.md)
 
-You are responsible for keeping up with the [reading materials](Readings.md) for this course. Readings listed for the e-book [**Eloquent JavaScript**](https://eloquentjavascript.net/) are required readings. The reading items marked with a star (**:star:**) are tied to the quizzes for the course.
+You are responsible for keeping up with the [reading materials](Readings.md) for this course. Required readings are correlated with quizzes for the course.
 
 For authoritative information on HTML, CSS and JavaScript, see the **Mozilla Developer Network**'s documentation.
 
