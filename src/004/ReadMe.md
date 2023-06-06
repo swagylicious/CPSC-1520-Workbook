@@ -1,6 +1,6 @@
 # JavaScript in Your WebPage
 
-> Begin this lesson by moving this folder into the [`src\`](../../src/) folder.
+The following is a short-list of the topics covered in this demo.
 
 - console.log, src, src + async + defer, "inline" script
 - live server
@@ -34,6 +34,12 @@ Loading external JavaScript files is accomplished through the `<script>` element
 1. View the page in the browser by launching it using Live Server. Right-click on the file and choose "Open with Live Server".
 
     ![Live Server](./images/LiveServer.png)
+
+----
+
+## Practice
+
+Work on the [practice exercise](./practice/ReadMe.md) for this demo. When you are done, make notes in your journal about what you learned. Also, make note of any questions you may have about the material presented and practice exercise.
 
 ----
 
