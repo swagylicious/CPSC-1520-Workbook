@@ -10,3 +10,4 @@ This **`src`** folder is where you will place practice and demo material for eac
 
 - [**001 - Start Here**](./001-StartHere/ReadMe.md) - Markdown & git
 - [**002**](./002/ReadMe.md) - More Markdown
+- [**003**](./003/ReadMe.md) - JavaScript in the Browser
