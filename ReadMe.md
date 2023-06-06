@@ -34,16 +34,10 @@ At the end of the term, your repositories on this [CPSC-1520 GitHub Organization
   - [**Vercel**](https://vercel.com/) - Like *Netlify*, *Vercel* offers hosting and CI/CD workflows to aid you in publishing your websites.
   - [**FireBase**](https://firebase.google.com/) - Similar to *Netlify* and *Vercel*, FireBase also offers various features/products to support dynamic websites, including *realtime databases* and *authentication*.
 - **Books/Videos**
-  - ["**Eloquent JavaScript**, 3rd Edition: A Modern Introduction to Programming"](https://eloquentjavascript.net/) (ISBN-13: 978-1593279509) - As identified in the course outline
-    - [**Chapter 2**](https://eloquentjavascript.net/02_program_structure.html) - Program Structure
-    - [Chapter 3](https://eloquentjavascript.net/03_functions.html) - Functions
-    - [Chapter 4](https://eloquentjavascript.net/04_data.html) - Data Structures: Objects and Arrays
-    - [**Chapter 14**](https://eloquentjavascript.net/14_dom.html) - The Document Object Model
-  - [**The New Way To Debug JavaScript in VS Code - No Extension Required**](https://youtu.be/tC91t9OvVHA) (Video - 7:20)
+  - Refer to [Readings.md](./docs/Readings.md) in the docs folder for official and recommended reading materials. Also, take a look at the [LanguageRef.md](./docs/LanguageRef.md) doc.
 
 Other recommended resources include:
 
-- [Learn Markdown](https://commonmark.org/help/)
 - **Mozilla Developer Network** (*MDN*)
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [JavaScript - Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
