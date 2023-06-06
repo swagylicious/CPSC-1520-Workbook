@@ -1,6 +1,6 @@
 # Handling Information ![Code](https://img.shields.io/badge/Code%20Status-Walkthrough-blueviolet?logo=Visual%20Studio%20Code&labelColor=indigo)
 
-> Begin this lesson by moving this folder into the [`src\`](../../src/) folder.
+> - [ ] TODO: Review/update instructions in student starterkit.
 
 ## REPL in your Browser
 
