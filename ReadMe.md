@@ -2,17 +2,19 @@
 
 > **STUDENT_NAME** - Place your name in this line.
 
+## ![Inside This Repo](./Docs/Images/level.png) Inside this repository
+
 This repository is your **Student Workbook** for participating in the in-class demos and for completing practice homework; the coding work is to be placed in the [*`src/`*](./src/ReadMe.md) folder. Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
 
 > :warning: **Do *NOT*** use this repository for any assignments that are worth marks. For work worth marks in this course, only use repositories set up/approved by your instructor. :warning:
 
-Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://cpsc-1520.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://cpsc-1520.github.io/LOGs.html) used in class.
+Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the two unofficial website notes: [current](https://cpsc-1520.github.io/cpsc1520/) and [legacy](https://cpsc-1520.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://cpsc-1520.github.io/LOGs.html) used in class.
 
 ----
 
 ## ![Version Control](./docs/images/tasks.png) Version Control
 
-At the end of the term, your repositories on this [CPSC-1520 GitHub Organization](https://github.com/CPSC-1520) will be removed. You will still have access to your local versions of these repositories for your personal use and review.
+At the end of the term, your repositories on the [CPSC-1520 GitHub Organization](https://github.com/CPSC-1520) will be removed. You will still have access to your local versions of these repositories for your personal use and review.
 
 > :warning: **Do *NOT*** re-publish your assignment/assessment repositories - doing so with any materials worth marks is an act of academic dishonesty :warning:
 
@@ -51,8 +53,13 @@ Other recommended resources include:
 Here are some helpful VS Code Extensions for JavaScript, HTML, and CSS Development.
 
 - [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)
 - [Markdown All-In-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-- [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+
+Down the road, if you're interested in learning TypeScript, consider installing the following extensions:
+
+- [Total TypeScript](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
 
 ----
