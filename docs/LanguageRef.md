@@ -1,6 +1,8 @@
 # Know Your Language ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
 
-- [Learn Markdown](https://commonmark.org/help/)
+- Markdown is used as a general documentation language, regardless of the language(s) used in your project/application. Take time to learn it, and it will help you immensely.
+  - [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/) (includes GFM - *GitHub-Flavored-Markdown*)
+  - [General Common-Mark Markdown](https://commonmark.org/help/)
 - For authoritative information on HTML, CSS and JavaScript, see the **Mozilla Developer Network**'s documentation.
 
 ----
