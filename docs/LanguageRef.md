@@ -1,6 +1,9 @@
 # Know Your Language ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
 
-For authoritative information on HTML, CSS and JavaScript, see the **Mozilla Developer Network**'s documentation.
+- [Learn Markdown](https://commonmark.org/help/)
+- For authoritative information on HTML, CSS and JavaScript, see the **Mozilla Developer Network**'s documentation.
+
+----
 
 <map name="infographic">
     <area shape="poly" coords="130,147,200,107,254,219,130,228" href="https://developer.mozilla.org/docs/Web/HTML" alt="HTML">
