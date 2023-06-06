@@ -12,3 +12,4 @@ This **`src`** folder is where you will place practice and demo material for eac
 - [**002**](./002/ReadMe.md) - More Markdown
 - [**003**](./003/ReadMe.md) - JavaScript in the Browser
 - [**004**](./004/ReadMe.md) - JavaScript in your Web Page
+- [**005**](./005/ReadMe.md) - JavaScript Variables
