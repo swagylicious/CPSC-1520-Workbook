@@ -2,6 +2,24 @@
 
 > - [ ] TODO: Review/update instructions in student starterkit.
 
+## Understanding Functions
+
+So far, we've been using JavaScript as a simple scripting language. We've been writing code that executes from top to bottom, and we've been using variables to store values. Along the way, we've also been interacting with the DOM of the page, using the `document` object to select elements and update their content.
+
+We're at a point where our code is starting to get a bit long. If we continue programming like this, soon we will find our code getting repetitive, messy and hard to maintain. We need a way to organize our code into reusable blocks. We need a way to make our code more *modular*.
+
+In this and subsequent lessons, we'll learn about functions, which are a way to organize our code into reusable blocks. We'll learn how to define functions, how to call functions, and how to pass data into functions.
+
+What is a function? A function is a block of code that contains a set of instructions to perform some task. In many ways, you've seen functions in action already. When we've used `console.log()`, we've been calling a *function* of the `console` object. When we've used `document.querySelector()`, we've been calling a *function* of the `document` object.
+
+Calling a function is also known as **invoking** a function. Essentially, we are saying to the computer, "Hey, do this thing for me." The function then does its thing, and then returns control back to the code that called it.
+
+We *invoke* the function by using its name followed by parentheses. When we do this, we often have the option to send information into the function. Whatever we place inside the parenthesis is information that we are sending into the function. If we need to send more than one piece of information, we separate each piece of information with a comma.
+
+The term for each item we send in is called an **argument**. We can *pass in* various kinds of items as arguments. The argument can be raw data (such as a number or a string), a variable, an expression, or even another function. Functions capture this information through something called **parameters**.
+
+Frequently, functions will also send information back to us. We refer to this as a **return value**. We can capture the return value of a function by assigning it to a variable. We can also use the return value directly in an expression.
+
 ## Demo-Agreement
 
 - What is a function?
@@ -64,41 +82,6 @@ para.innerHTML = repeat ? 'Press <a href="#">this link</a> to try again.' : 'Tha
 ```
 
 ----
-
-## Demo-Greet
-
-- Declaring functions
-  - Parameters and return values
-  - Named functions
-  - Anonymous functions
-  - assigning a function to a variable
-    - use `const`
-- Calling functions
-  - arguments
-- [ ] Create a function to get a description of the image from the user and then set the `alt` attribute of the image to that description.
-- [ ] Call that function from the console in the dev tools. Then inspect the element to see if the `alt` attribute was set correctly.
-- [ ] Add the function call to the script `main.js`.
-  - [ ] Does it matter if the call to the function occurs before or after the function declaration?
-
-----
-
-## Practice Agreement
-
-- "Refactoring" refers to the process of improving the code without changing the functionality.
-- See the instructions in the [starter-kit](./practice-agreement/README.md)
-  - [ ] Move the instructions from the JavaScript file to the ReadMe file.
-
-----
-
-## Practice Review
-
-- [ ] Follow the instructions in the [starter kit](./practice-review/ReadMe.md)
-
-----
-
-## Waiting for the DOM
-
-Generate the example from the MDN documentation on the [Window: load event](https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event).
 
 ----
 
