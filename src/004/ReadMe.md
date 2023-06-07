@@ -35,6 +35,8 @@ Loading external JavaScript files is accomplished through the `<script>` element
 
     ![Live Server](./images/LiveServer.png)
 
+> *:+1: **TIP:** It's usually a good idea to use relative paths when linking your HTML to JavaScript files. This makes it easier to move sets of files around without having to change the internal code.*
+
 ----
 
 ## Practice
