@@ -2,13 +2,17 @@
 
 *At the end of this lesson, you should be able to...*
 
+- [ ] Access the developer tools in the Chrome browser
 - [ ] Describe what is meant by a "case-sensitive" programming language
-- [ ] Define the term DOM
+- [ ] Define the acronym DOM
+- [ ] Define the acronym API
+- [ ] Describe the purpose of the `document` object
+- [ ] Describe what the DOM API provides to JavaScript in the browser
 - [ ] Demonstrate basic DOM selector methods
 - [ ] Demonstrate how to use the `.innerHTML` property of HTMLElement objects
-- [ ] Access the developer tools in the Chrome browser
 - [ ] Execute simple JavaScript statements in the console
 - [ ] Demonstrate how to declare variables in JavaScript
+
 
 ----
 

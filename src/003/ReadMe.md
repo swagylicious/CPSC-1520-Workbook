@@ -4,7 +4,11 @@
 
 ## Learn to Think in Terms of *Objects*
 
-The browser offers a rich set of pre-defined objects as part of its **rendering engine**. The objects are part of the **DOM API**.
+The focus of this lesson is on using the Developer Tools in the browser. A web browser is a tool used to render and interact with **web pages**. It offers a rich set of pre-defined objects as part of its **rendering engine**. The objects are part of the **DOM API**.
+
+When a web browser renders a web page, it creates a **Document Object Model** (DOM) that represents the contents of the page. The DOM is a **hierarchical** structure, meaning that it is made up of **nodes** that are connected to each other in a parent-child relationship. The DOM is a **live** structure, meaning that it is constantly changing as the user interacts with the web page.
+
+When you open the Developer Tools in your browser, you are given access to the **console**. The console is a place where you can interact with the browser's rendering engine. You can use it to inspect the **DOM** and to run JavaScript code.
 
 ----
 
@@ -23,7 +27,7 @@ Before beginning this walkthrough, you should know how to take screenshots. One 
 1. Take screen-shots of your own work in the console to demonstrate your use of the console in the browser. Place those images in this folder and edit this document to show those images below.
 1. Commit these changes to your repository and synchronize it with the copy on GitHub.
 
-   *This is the last time you will be explicitly asked to commit your changes and synchronize with GitHub. At this point, **you will be expected to make your own commits on a regular basis for each lesson**.*
+   *This is the last time you will be explicitly asked to commit your changes and synchronize with GitHub. At this point, **you will be expected to [make your own commits on a regular basis](../../docs/TheRoutine.md) for each lesson**.*
 
 ----
 
