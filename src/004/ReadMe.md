@@ -39,12 +39,6 @@ Loading external JavaScript files is accomplished through the `<script>` element
 
 ----
 
-## Practice
-
-Work on the [practice exercise](./practice/ReadMe.md) for this demo. When you are done, make notes in your journal about what you learned. Also, make note of any questions you may have about the material presented and practice exercise.
-
-----
-
 ## Software Design ![Docs](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-brightgreen?logo=Read%20the%20Docs)
 
 "Tight coupling" makes for bad design, because changes in either area can potentially "break" the other areas.

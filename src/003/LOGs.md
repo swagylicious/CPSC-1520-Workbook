@@ -4,14 +4,18 @@
 
 - [ ] Access the developer tools in the Chrome browser
 - [ ] Describe what is meant by a "case-sensitive" programming language
+- [ ] Describe the terms "keyword", "operator", "variable" and "grammar" as they relate to programming languages in general
 - [ ] Define the acronym DOM
 - [ ] Define the acronym API
 - [ ] Describe the purpose of the `document` object
 - [ ] Describe what the DOM API provides to JavaScript in the browser
 - [ ] Demonstrate basic DOM selector methods
-- [ ] Demonstrate how to use the `.innerHTML` property of HTMLElement objects
+- [ ] Describe the terms "object", "property" and "method" as they relate to JavaScript
+- [ ] Describe the purpose of the "Member Access Operator" (`.`) in JavaScript
+- [ ] Demonstrate how to use the `.innerHTML` property of `HTMLElement` objects, including how to modify the DOM structure using this property
 - [ ] Execute simple JavaScript statements in the console
-- [ ] Demonstrate how to declare variables in JavaScript
+- [ ] Demonstrate how to declare variables in the developer tools console
+- [ ] Demonstrate how to assign values to variables in the developer tools console
 
 
 ----

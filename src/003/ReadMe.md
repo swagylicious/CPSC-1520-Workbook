@@ -35,6 +35,12 @@ Before beginning this walkthrough, you should know how to take screenshots. One 
 
 ----
 
+## Practice
+
+Work on the [practice exercise](./practice/ReadMe.md) for this demo. When you are done, make notes in your journal about what you learned. Also, make note of any questions you may have about the material presented and practice exercise.
+
+----
+
 ## HTML/CSS Review
 
 > ***Note: This portion is a self-study topic!** You should consider reading the MDN documentation on [HTML basics](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/HTML_basics) and [CSS basics](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/CSS_basics) as well as the article on [dealing with files](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/Dealing_with_files) as a refresher on material you are expected to know **prior** to taking this course.*
@@ -59,3 +65,19 @@ Before beginning this walkthrough, you should know how to take screenshots. One 
   - [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
   - [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
   - [Introducing JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+
+----
+
+## Have You Reviewed Today's Lessons?
+
+See what [**Stewart**](https://github.com/StewDent) created as a [live-demo](./live-demo/index.html) for working with JavaScript in the Browser. He also added some notes and screenshots in the *docs* folder of his repository:
+
+> ### Retrospective: JavaScript in the Browser
+> 
+> We learned about the DOM (*Document Object Model*) and how to access/manipulate it using JavaScript.
+> 
+> ![DOM and JS](./images/computer_program.png)
+> 
+> We also learned about creating our own variables in JavaScript, and that we can get a "reference" to an item/element in the DOM.
+> 
+> ![Variables](./images/variables.png)

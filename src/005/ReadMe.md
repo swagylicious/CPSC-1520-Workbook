@@ -80,19 +80,18 @@ Take some time to explore the various [**assignment operators**](https://develop
 ----
 
 ## Learn by Play
-One of the ways we are wired to learn is by play. I encourage you to apply what we're learning in our classes to something that personally interests you!
 
-Create a folder at the root of your repository called **`sandbox`** and use it as a place to experiment.
-Do you have a favorite web page you made in a previous course? See what you can do to add interactions using JavaScript! Is there something you learned in class that interested you? Turn what you learned into its own web page as a summary lesson!
+### Edit the Live Demo
 
-For example, see what [**Stewart**](https://github.com/StewDent) created as a [live-demo](./live-demo/index.html) for working with JavaScript in the Browser. He also added some notes and screenshots in the *docs* folder of his repository:
+> To see if you truly understand the concepts presented, you will need to engage in some "experimentation".
 
-> ### Retrospective: JavaScript in the Browser
-> 
-> We learned about the DOM (*Document Object Model*) and how to access/manipulate it using JavaScript.
-> 
-> ![DOM and JS](./images/computer_program.png)
-> 
-> We also learned about creating our own variables in JavaScript, and that we can get a "reference" to an item/element in the DOM.
-> 
-> ![Variables](./images/variables.png)
+A copy of the `live-demo` from lesson `003` has been included in this lesson's starter kit. Play with this demo by loading an external JavaScript file. Give the file the name "main.js" and put it in a subfolder of `live-demo` named "scripts".
+
+In that file, generate examples that demonstrate each of the items in the [Learning Outcome Guide](./LOGs.md) for this lesson. Additionally, go beyond this lesson to explore additional members of the `Math` object in JavaScript. For example, you could explore the use of the functions that are available for trigonometry.
+
+### Create a Sandbox
+
+> One of the ways we are wired to learn is by play. I encourage you to apply what we're learning in our classes to something that personally interests you!
+
+Create a folder at the root of your repository called **`sandbox`** and use it as a place to experiment. Do you have a favorite web page you made in a previous course? See what you can do to add interactions using JavaScript! Is there something you learned in class that interested you? Turn what you learned into its own web page as a summary lesson!
+
