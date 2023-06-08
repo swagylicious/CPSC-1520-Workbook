@@ -2,6 +2,7 @@
 
 We can use the git version control application directly from the command line. Here are some useful commands to get started.
 
+- `git --help` - This command will give you a list of all of the available git commands. `--help` is a special flag that can be used with many command line applications to get more information about how to use them. It can also be used with git commands to get more information about a specific command. For example, `git add --help` will give you more information about how to use the `git add` command.
 - `git init` - This command will create a git repository in the current folder
 - `git status` - This will give you the current status of your git repository
 - `git add .` - Use this command to "stage" all of your current changes so that they are ready to be committed.
