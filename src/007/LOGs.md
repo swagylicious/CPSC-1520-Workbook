@@ -19,4 +19,6 @@
 - [ ] Create functions that don't return a value
 - [ ] Display a function in the developer tool's console window
 - [ ] Explain the concept of "hoisting" in JavaScript
+- [ ] Explain the benefits of declaring functions as constants in JavaScript
+- [ ] Describe what is meant by the term "refactoring"
 

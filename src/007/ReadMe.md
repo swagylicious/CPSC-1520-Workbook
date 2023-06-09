@@ -26,9 +26,5 @@
 - See the instructions in the [starter-kit](./practice-agreement/README.md)
   - [ ] Move the instructions from the JavaScript file to the ReadMe file.
 
-----
 
-## Practice Review
-
-- [ ] Follow the instructions in the [starter kit](./practice-review/ReadMe.md)
 
