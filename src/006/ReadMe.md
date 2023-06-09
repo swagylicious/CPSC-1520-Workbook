@@ -22,64 +22,25 @@ Frequently, functions will also send information back to us. We refer to this as
 
 ## Demo-Agreement
 
-- What is a function?
-  - A function is a block of code that can be called by name.
-  - A function can optionally accept parameters.
-  - A function can optionally return a value.
-- Functions that members of objects include: `console.log`, `document.querySelector`, `document.querySelectorAll`, `document.getElementById`, `document.getElementsByClassName`, `document.getElementsByTagName`
-- Built-in "global" functions: `prompt`, `alert`, `confirm`
-- Calling a function
-  - `prompt` returns a value
-  - `alert` does not return a value
-  - `confirm` returns a value
-  - `console.log` does not return a value
+The web page in the [`demo-agreement`](./demo-agreement) folder is a simple agreement form. It has a few areas that need to be updated with information from the user. We can use JavaScript to update the page with the user's information.
 
-```js
-var disclosing;
-var receiving;
-var date;
-
-disclosing = prompt('Enter disclosing party name:');
-receiving = prompt('Enter receiving party name:');
-date = prompt('Enter the date [month, day, year]:');
-
-// update the disclosing party areas
-document.querySelector('.parties .disclosing-party').innerHTML = disclosing;
-document.querySelector('.disclosing-signature .disclosing-party').innerHTML = disclosing;
-
-// update the receiving party areas
-document.querySelector('.parties .receiving-party').innerHTML = receiving;
-document.querySelector('.receiving-signature .receiving-party').innerHTML = receiving;
-
-// update the date
-document.querySelector('.date').innerHTML = date;
-```
+The instructions for the demo are in the [`main.js`](./demo-agreement/js/main.js) file.
 
 ----
 
 ## Demo-Addition
 
+The web page in the **`demo-addition`** folder displays the results of adding two numbers. In this walkthrough, we will use JavaScript to prompt the user for two numbers, add them together, and display the result on the page along with the numbers supplied by the user.
+
+> **Note:** Do not worry about validation at this point; assume correct input from the user.
+
+> **NOTE:** This example makes use of the `<output>` element in the `index.html` file. Notice also that the elements have `id` attributes. This is so that we can easily access them in JavaScript ***without having to query the DOM***.
+
 - Ternary operator
   - `condition ? trueValue : falseValue`
   - Used to assign a value to a variable; it is an expression
 
-```js
-let first = prompt('Enter a number.');
-let second = prompt('Enter another number.');
 
-let result = first + second;
-
-alert(`I calculated a result of ${result} when adding the numbers.`);
-
-firstNumber.innerText = first;
-secondNumber.innerText = second;
-answer.innerText = result;
-
-let repeat = confirm('Again?');
-
-let para = document.querySelector('p'); // grab the first <p>
-para.innerHTML = repeat ? 'Press <a href="#">this link</a> to try again.' : 'Thanks for playing';
-```
 
 ----
 
