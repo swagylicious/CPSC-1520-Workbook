@@ -36,10 +36,6 @@ The web page in the **`demo-addition`** folder displays the results of adding tw
 
 > **NOTE:** This example makes use of the `<output>` element in the `index.html` file. Notice also that the elements have `id` attributes. This is so that we can easily access them in JavaScript ***without having to query the DOM***.
 
-- Ternary operator
-  - `condition ? trueValue : falseValue`
-  - Used to assign a value to a variable; it is an expression
-
 
 
 ----
