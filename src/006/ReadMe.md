@@ -1,7 +1,5 @@
 # Intro to Functions in JavaScript ![Code](https://img.shields.io/badge/Code%20Status-Walkthrough-blueviolet?logo=Visual%20Studio%20Code&labelColor=indigo)  ![Docs](https://img.shields.io/badge/Documentation%20Status-10--40%25%20Rough%20Outline-red?logo=Read%20the%20Docs)
 
-> - [ ] TODO: Review/update instructions in student starterkit.
-
 ## Understanding Functions
 
 So far, we've been using JavaScript as a simple scripting language. We've been writing code that executes from top to bottom, and we've been using variables to store values. Along the way, we've also been interacting with the DOM of the page, using the `document` object to select elements and update their content.
