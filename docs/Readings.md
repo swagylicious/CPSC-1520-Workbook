@@ -1,5 +1,7 @@
 # Reading Assignments and Resources
 
+The best resources for learning JavaScript are the official ones at the (**MDN (Mozilla Developer Network) site**](https://developer.mozilla.org/en-US/) (*Mozilla Web Docs*). Check out the ⁠[**JavaScript Guide**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) and ⁠[**JavaScript Reference**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) pages as a starting point.
+
 ## Required Readings
 
 > The following reading list is for the newer resources for the course. Note that as a student, you will have free access to books and videos on the [O'Reilly website](#oreillycom).
