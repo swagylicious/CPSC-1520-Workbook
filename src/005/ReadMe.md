@@ -106,6 +106,7 @@ The saved session is a JavaScript file, so you can edit it in VS Code and then l
 
 - ["Primitive Obsession - A Code Smell that Hurts People the Most"](https://medium.com/the-sixt-india-blog/primitive-obsession-code-smell-that-hurt-people-the-most-5cbdd70496e9)
 - For more on `let` vs `var`, see the article ["var, let, or const?"](https://hackernoon.com/js-var-let-or-const-67e51dbb716f)
+- Want to learn [HTML Character Codes](https://www.rapidtables.com/web/html/html-codes.html)? Check out this reference.
 
 ----
 
