@@ -2,8 +2,9 @@
 
 The following is a short-list of the topics covered in this demo.
 
-- console.log, src, src + async + defer, "inline" script
-- live server
+- console.log
+- `<script ...>` attributes of `src`, `module` and `defer`, along with "inline" scripts
+- live server extension for VS Code
 - variable declarations, types, math
 
 ----

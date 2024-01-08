@@ -72,6 +72,36 @@ Take some time to explore the various [**assignment operators**](https://develop
 
 ----
 
+## Node as a REPL Environment
+
+You can use Node as an excellent browserless REPL environment. To do so, you will need to install Node on your computer. You can download the installer from the [Node.js website](https://nodejs.org/en/). Once you have Node installed, you can open a terminal window and type `node` to start the REPL. You can exit the REPL by typing `.exit` or by pressing `Ctrl+C` twice.
+
+Go ahead and open a terminal window in VS Code (<kbd>ctrl</kbd> + <kbd>&#96;</kbd>) or open an external terminal from within VS Code (<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>c</kbd>). The type `node` and press <kbd>enter</kbd>. You should see something like this:
+
+```bash
+Welcome to Node.js v14.15.4.
+Type ".help" for more information.
+>
+```
+
+Try typing the demo for using the `.toFixed()` method from above, and observe the results in the REPL.
+
+```js
+let unitCost = 12.50
+let quantity = 10
+let total = unitCost * quantity
+total
+total.toFixed(2)
+```
+
+When you are done with a REPL, you can save the session to a file. To do so, type `.save` followed by the name of the file you want to save to. For example, you could type `.save mySession.js` to save the session to a file named `mySession.js`. You can then exit the REPL and open the file in VS Code to see the results.
+
+To load a saved session, type `.load` followed by the name of the file you want to load. For example, you could type `.load mySession.js` to load the session from the file named `mySession.js`.
+
+The saved session is a JavaScript file, so you can edit it in VS Code and then load it back into the REPL to continue working with it. This is a great way to experiment with code snippets without having to create an entirely new project.
+
+----
+
 ## References
 
 - ["Primitive Obsession - A Code Smell that Hurts People the Most"](https://medium.com/the-sixt-india-blog/primitive-obsession-code-smell-that-hurt-people-the-most-5cbdd70496e9)
