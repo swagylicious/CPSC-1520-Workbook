@@ -31,7 +31,7 @@ Before beginning this walkthrough, you should know how to take screenshots. One 
 
 ----
 
-> 
+> ![](<images/Screenshot 2024-01-10 112340.png>)
 
 ----
 
