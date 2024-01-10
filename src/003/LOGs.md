@@ -2,9 +2,9 @@
 
 *At the end of this lesson, you should be able to...*
 
-- [ ] Access the developer tools in the Chrome browser
-- [ ] Describe what is meant by a "case-sensitive" programming language
-- [ ] Describe the terms "keyword", "operator", "variable" and "grammar" as they relate to programming languages in general
+- [/] Access the developer tools in the Chrome browser
+- [/] Describe what is meant by a "case-sensitive" programming language
+- [/] Describe the terms "keyword", "operator", "variable" and "grammar" as they relate to programming languages in general
 - [ ] Define the acronym DOM
 - [ ] Define the acronym API
 - [ ] Describe the purpose of the `document` object
