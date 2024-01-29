@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>Events Introdution</title>
 	<link rel="stylesheet" type="text/css" href="css/main.css">
-	<script src="js/main.js" defer></script>
+	<script src="main.js" defer></script>
 </head>
 <body>
 <main>
