@@ -13,7 +13,7 @@ const calculateQuote = function(ev){
     log(kg)
     if(kg !== NaN){
         if(kg >= 1 && kg <= 1000){
-            const   
+            const amount =   
         }
     }
 }
