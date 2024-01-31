@@ -14,7 +14,7 @@ const calculateQuote = function(ev){
     if(kg !== NaN){
         if(kg >= 1 && kg <= 1000){
             const amount = kg * 11.75  
-            const rateHtml = '<b>$ ${amount}</b>'
+            const rateHtml = '<b>$ ${amount}</b> '
         }
     }
 }
