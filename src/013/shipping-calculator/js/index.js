@@ -2,4 +2,4 @@ const log = console.log
 
 log('Hello, world!')
 
-const form = document.querySelector('#shipping')
+const form = document.querySelector('#shipping-calculator')
