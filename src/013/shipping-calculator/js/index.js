@@ -9,3 +9,4 @@ const calculateQuote = function(ev){
     log('form submitted')
 }
 
+form.addEventListener('submit', calculateQuote)
