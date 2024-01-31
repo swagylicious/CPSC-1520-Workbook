@@ -4,4 +4,4 @@ log('Hello, world!')
 
 const form = document.querySelector('#shipping-calculator')
 
-const calculateQuote = 
+const calculateQuote = function(ev)
