@@ -12,7 +12,7 @@ const calculateQuote = function(ev){
     const kg = parseFloat(input.value)
     log(kg)
     if(kg !== NaN){
-        if(kg >==)
+        if(kg >= 1 && kg <= 5){
     }
 }
 
