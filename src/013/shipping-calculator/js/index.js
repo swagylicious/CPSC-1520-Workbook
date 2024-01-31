@@ -6,4 +6,5 @@ const form = document.querySelector('#shipping-calculator')
 
 const calculateQuote = function(ev){
     ev.preventDefault()
+    log()
 }
