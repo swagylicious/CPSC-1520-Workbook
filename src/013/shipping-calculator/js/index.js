@@ -13,10 +13,7 @@ const calculateQuote = function(ev){
     log(kg)
     if(kg !== NaN){
         if(kg >= 1 && kg <= 1000){
-            const quote = 5 + (kg * 1.5)
-            log(quote)
-            const result = document.querySelector('#result')
-            result.innerHTML = `Your shipping quote is $${quote}`
+            const 
         }
     }
 }
