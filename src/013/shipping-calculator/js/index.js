@@ -17,7 +17,7 @@ const calculateQuote = function(ev){
             const rateHtml = `<b>$ ${amount.toFixed(2)}</b> ($11.75 per kg)`
             document.querySelector('.rate').innerHTML = rateHtml
         }else{
-
+            warning.classList.remove('hide')
         }
     }else{
         warning.classList.remove('hide')
