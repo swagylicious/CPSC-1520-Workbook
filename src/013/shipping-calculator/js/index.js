@@ -20,7 +20,7 @@ const calculateQuote = function(ev){
 
         }
     }else{
-        warning.classList.remove('hidden')
+        warning.classList.remove('hide')
     }
 }
 
