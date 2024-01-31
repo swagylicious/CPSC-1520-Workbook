@@ -8,7 +8,8 @@ const calculateQuote = function(ev){
     ev.preventDefault()
     log('form submitted')
     const form = ev.target // 
-    const input = form.elements.we
+    const input = form.elements.weight 
+    const
 }
 
 form.addEventListener('submit', calculateQuote)
