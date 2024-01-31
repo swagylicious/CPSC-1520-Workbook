@@ -12,8 +12,7 @@ const calculateQuote = function(ev){
     const kg = parseFloat(input.value)
     log(kg)
     if(kg !== NaN){
-        const quote = 2.5 * kg
-        log(quote)
+        if
     }
 }
 
