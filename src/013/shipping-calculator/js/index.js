@@ -2,4 +2,4 @@ const log = console.log
 
 log('Hello, world!')
 
-const form = docu
+const form = document.querySelector('#shipping')
