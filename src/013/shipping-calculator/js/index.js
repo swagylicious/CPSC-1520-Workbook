@@ -7,7 +7,7 @@ const form = document.querySelector('#shipping-calculator')
 const calculateQuote = function(ev){
     ev.preventDefault()
     log('form submitted')
-    const/
+    const ofrm
 }
 
 form.addEventListener('submit', calculateQuote)
