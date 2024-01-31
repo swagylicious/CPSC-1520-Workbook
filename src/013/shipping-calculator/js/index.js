@@ -11,7 +11,7 @@ const calculateQuote = function(ev){
     const input = form.elements.weight 
     const kg = parseFloat(input.value)
     log(kg)
-    
+    if(kg < 0){
 }
 
 form.addEventListener('submit', calculateQuote)
