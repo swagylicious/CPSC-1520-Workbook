@@ -1,1 +1,5 @@
-const demoFetch = function ()
+const demoFetch = function (){
+
+}
+
+export { demoFetch } 
