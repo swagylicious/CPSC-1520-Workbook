@@ -6,6 +6,9 @@ const dumpInfo = function (element, obj) {
     if (element && obj) {
         element.innerHTML = JSON.stringify(obj);
     }
+    else {
+        console.log('element or obj is not defined');
+    }
 }
 
 const demoFetch = function (element){
