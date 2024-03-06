@@ -4,7 +4,7 @@ const dumpInfo = function (element, obj) {
     console.log(element);
     console.log(obj);
     if (element && obj) {
-        let content = '<table><tr><th></tr><tr><th><><>';
+        let content = '<table><tr><th>Name</th></tr><tr><th></th><>';
     }
     else {
         console.log('element or obj is not defined');
