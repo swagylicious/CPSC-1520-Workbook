@@ -1,5 +1,5 @@
 const demoFetch = function (){
-
+    
 }
 
-export { demoFetch } 
+export { demoFetch };
