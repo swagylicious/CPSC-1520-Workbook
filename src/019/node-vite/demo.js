@@ -1,4 +1,4 @@
-cosnt url = 'https://api.github.com/users/yyx990803/repos';
+cosnt url = 'https://stapi.co/api/v1/rest/common/download/stapi.yamls';
 const demoFetch = function (){
 
 }
