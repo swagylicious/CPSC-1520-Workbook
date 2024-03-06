@@ -7,8 +7,8 @@ const dumpInfo = function (element, obj) {
         let spaceCrafts = obj.spacecrafts.filter(item => item.registry);
 
         let content = '<table><tr><th>Name</th></tr><tr><th>Regestry</th></tr>';
-        let row = spacecrafts.map(item => `<tr><td>${item.name}</td><td>${item.registry}</td></tr>`);
-        
+        let row = spaceCrafts.map(item => `<tr><td>${item.name}</td><td>${item.registry}</td></tr>`);
+
         content += row.join('');
         content += '</table>';
         element.innerHTML = content;
