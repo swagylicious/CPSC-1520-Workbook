@@ -1,6 +1,11 @@
 const url = 'https://stapi.co/api/v2/rest/spacecraft/search';
+
+const dumpInfo = function (data) {
+    console.log(data);
+}
+
 const demoFetch = function (element){
-    el = element
+
     fetch(url)
         .then(response => response.json())
         .then(data => console.log(data))
