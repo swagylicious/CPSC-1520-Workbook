@@ -4,6 +4,8 @@ import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.js'
 import { demoFetch } from './demo.js'
 
+demoFetch()
+
 document.querySelector('#app').innerHTML = `
   <div>
     <a href="https://vitejs.dev" target="_blank">
