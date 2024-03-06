@@ -4,7 +4,7 @@ const dumpInfo = function (element, obj) {
     console.log(element);
     console.log(obj);
     if (element && obj) {
-        element.innerHTML = JSON.stringify(obj);
+        let content = 
     }
     else {
         console.log('element or obj is not defined');
