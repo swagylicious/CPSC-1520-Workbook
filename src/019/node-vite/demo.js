@@ -9,7 +9,7 @@ const demoFetch = function (element){
 
     fetch(url)
         .then(response => response.json())
-        .then(data => dumpInfo(data))
+        .then(data => dumpInfo(element, data))
         .catch(error => console.log(error));
 }
 
