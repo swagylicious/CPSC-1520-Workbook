@@ -5,7 +5,7 @@ const dumpInfo = function (element, obj) {
     console.log(obj);
     if (element && obj) {
         let content = '<table><tr><th>Name</th></tr><tr><th>Regestry</th></tr>';
-        let row = obj.spacecrafts.map((item) => '<tr><td>${item.name}</td><td>${item.registry}</td></tr>');
+        let row = obj.spacecrafts.map(item) => '<tr><td>${item.name}</td><td>${item.registry}</td></tr>';
         content += row + '</table>';
     }
     else {
