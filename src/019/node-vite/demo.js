@@ -1,4 +1,4 @@
-const url = 'https://stapi.co/v2/rest/spacecraft/search';
+const url = 'https://stapi.co/api/v2/rest/spacecraft/search';
 const demoFetch = function (){
     const options = {
         mode: 'no-cors'
