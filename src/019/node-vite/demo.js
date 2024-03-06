@@ -7,6 +7,8 @@ const dumpInfo = function (element, obj) {
         let content = '<table><tr><th>Name</th></tr><tr><th>Regestry</th></tr>';
         let row = obj.spacecrafts.map(item => `<tr><td>${item.name}</td><td>${item.registry}</td></tr>`);
         content += row.join('');
+        content += '</table>';
+        element.innerHTML = content;
     }
     else {
         console.log('element or obj is not defined');
