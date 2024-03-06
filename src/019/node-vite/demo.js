@@ -1,11 +1,7 @@
 const url = 'https://stapi.co/v2/rest/spacecraft/search';
 const demoFetch = function (){
     const options = {
-        mode: 'no-cors',
-        method: 'GET',
-        headers: {
-            'Content-Type': 'application/json'
-        }
+        mode: 'no-cors'
     }
     fetch(url)
         .then(response => response.json())
