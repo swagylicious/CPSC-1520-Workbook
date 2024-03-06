@@ -4,7 +4,7 @@ const dumpInfo = function (element, obj) {
     console.log(element);
     console.log(obj);
     if (element && obj) {
-        let spaceCrafts = obj.spacecrafts;
+        let spaceCrafts = obj.spacecrafts.filter(item => item.registry);
 
         let content = '<table><tr><th>Name</th></tr><tr><th>Regestry</th></tr>';
         let row = obj.spacecrafts.map(item => `<tr><td>${item.name}</td><td>${item.registry}</td></tr>`);
