@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.js'
 import { demoFetch } from './demo.js'
 
-demoFetch()
+demoFetch(document.querySelector('#st'));
 
 document.querySelector('#app').innerHTML = `
   <div>
