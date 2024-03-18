@@ -25,6 +25,7 @@ const output = document.getElementById('thisDate');
 showDate(output);
 
 
-document.querySelector('button').addEventListener('click', function() {
-
+document.querySelector('button').addEventListener('click', function(ev) {
+    const rightNow = new Date();
+    console.log(rightNow);
 });
