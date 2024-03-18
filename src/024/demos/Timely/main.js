@@ -26,5 +26,5 @@ showDate(output);
 
 
 document.querySelector('button').addEventListener('click', function() {
-    
-}
+
+});
