@@ -25,4 +25,6 @@ const output = document.getElementById('thisDate');
 showDate(output);
 
 
-document.q
+document.querySelector('button').addEventListener('click', function() {
+    
+}
