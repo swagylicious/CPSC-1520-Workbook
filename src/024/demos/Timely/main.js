@@ -23,3 +23,6 @@ const showDate = function(thisDate) {
 };
 const output = document.getElementById('thisDate');
 showDate(output);
+
+
+document.q
