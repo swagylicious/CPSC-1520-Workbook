@@ -19,11 +19,11 @@
   },
   "devDependencies": {
     "parcel": "^2.12.0"
-  }
+  },
 
   "source": "index.html",
-"scripts":{
+  "scripts":{
   "start": "parcel"
   "build": "parcel build"
-},
+  }
 }
