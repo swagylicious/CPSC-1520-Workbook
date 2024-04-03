@@ -1,7 +1,7 @@
 "source": "index.html",
 "script":{
   "start": "parcel"
-  
+  "build": "parcel build index.html"
 },
 
 
