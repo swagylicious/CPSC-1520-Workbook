@@ -1,4 +1,8 @@
 "source": "index.html",
+"script":{
+  "start": "parcel index.html"
+
+},
 
 
 
