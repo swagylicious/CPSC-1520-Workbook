@@ -12,5 +12,8 @@
   "dependencies": {
     "bootstrap": "^5.3.3",
     "validator": "^13.11.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
   }
 }
