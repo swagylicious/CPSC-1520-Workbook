@@ -21,8 +21,9 @@
     "parcel": "^2.12.0"
   },
 
-  "source": "index.html",  "scripts":{
-      "start": "parcel"
+  "source": "index.html",  
+  "scripts":{
+      "start": "parcel",
       "build": "parcel build"
   }
 }
