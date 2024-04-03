@@ -1,4 +1,4 @@
-"source" "index.html",
+"source": "index.html",
 "script":{
   "start": "parcel"
   "build": "parcel build"
